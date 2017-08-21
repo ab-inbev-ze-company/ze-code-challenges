@@ -2,7 +2,7 @@
 
 ## Problema
 
-Você está no churrasco com o pessoal e acabou a cerveja? A galera já bebeu uma cerveja e ninguém pode dirigir, certo? Imagina você fazer um pedido online em algum PDV e ela chegar geladinha e em até 1 hora. Bom, vamos tentar resolver esse problema.
+Você está no churrasco com o pessoal e acabou a cerveja? A galera já bebeu umas latinhas e ninguém pode dirigir, certo? Imagina você fazer um pedido online em algum PDV e ela chegar geladinha e em até 1 hora. Bom, vamos tentar resolver esse problema.
 
 * PDV = Ponto de Venda
 
