@@ -43,7 +43,7 @@ Temos as seguintes regras:
 
 1. Um PDV tem as seguintes características:
     - A localização é definida pelo formato `GeoJSON Point` (https://en.wikipedia.org/wiki/GeoJSON)
-    - A área de cobertura é definida pelo formato `GeoJSON MultiPolygon` ((https://en.wikipedia.org/wiki/GeoJSON)) 
+    - A área de cobertura é definida pelo formato `GeoJSON MultiPolygon` (https://en.wikipedia.org/wiki/GeoJSON) 
 2. CNPJ deverá ser um campo único
 
 Usando as informações anteriores, crie uma API que execute as funções abaixo. Você pode utilizar qualquer linguagem de programação e também qualquer banco de dados. Faça da forma como preferir, ou que se sinta mais confortável.
@@ -66,7 +66,7 @@ Crie uma documentação e explique como como rodar o seu projeto.
 
 ## Modo de avaliação
 
-Seu código será avaliado pelo time de engenharia da ZX-Ventures. Alguns critérios serão levados em conta:
+Seu código será avaliado pelo time de engenharia da ZX-Ventures e alguns critérios serão levados em conta:
 - **Desempenho**
 - **Testes**
 - **Manutenabilidade**
