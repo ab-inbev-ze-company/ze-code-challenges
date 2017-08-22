@@ -13,21 +13,16 @@ Vamos fornecer para você alguns dados. Neste [json](files/pdvs.json) você enco
         "tradingName": "Adega da Cerveja - Pinheiros",
         "ownerName": "Zé da Silva",
         "document": "1432132123891/0001", //CNPJ
-        "coverageArea": { "type": "MultiPolygon", 
-            "coordinates": [
-                [
-                    [[30, 20], [45, 40], [10, 40], [30, 20]]
-                ], 
-                [
-                    [[15, 5], [40, 10], [10, 20], [5, 10], [15, 5]]
-                ]
-            ]
+        "coverageArea": { 
+          "type": "MultiPolygon", 
+          "coordinates": [
+            [[[30, 20], [45, 40], [10, 40], [30, 20]]], 
+            [[[15, 5], [40, 10], [10, 20], [5, 10], [15, 5]]]
+          ]
         }, //Área de Cobertura
-        "address": {
-            "coordinates": {
-                "type": "Point",
-                "coordinates": [-46.689537, -23.560505]
-            }
+        "address": { 
+          "type": "Point",
+          "coordinates": [-46.57421, -21.785741]
         }, // Localização do PDV,
         "deliveryCapacity": 5
     }
