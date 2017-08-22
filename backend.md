@@ -6,7 +6,6 @@ Vamos fornecer para você alguns dados. Neste [json](files/pdvs.json) você enco
 
 ```javascript
 {
-  "totalPdvs": 1, 
   "pdvs": [ 
     {
         "id": 1, 
@@ -39,9 +38,9 @@ Temos as seguintes regras:
 1. Um PDV tem as seguintes características:
     - A localização é definida pelo formato `GeoJSON Point` (https://en.wikipedia.org/wiki/GeoJSON)
     - A área de cobertura é definida pelo formato `GeoJSON MultiPolygon` (https://en.wikipedia.org/wiki/GeoJSON) 
-2. CNPJ deverá ser um campo único
+2. CNPJ deverá ser um campo único por PDV
 
-Usando as informações anteriores, crie uma API que execute as funções abaixo. Você pode utilizar qualquer linguagem de programação e também qualquer banco de dados. Faça da forma como preferir, ou que se sinta mais confortável.
+Usando as informações anteriores, crie uma API em REST ou GraphQL(se estiver ligado nas novas tendências :wink:) que execute as funções abaixo. Você pode utilizar qualquer linguagem de programação e também qualquer banco de dados. Faça da forma como preferir, ou que se sinta mais confortável.
 
 ### 1. Crie PDV: 
 
@@ -66,6 +65,7 @@ Seu código será avaliado pelo time de engenharia da ZX-Ventures e alguns crit�
 - **Testes**
 - **Manutenabilidade**
 - **Separação de responsabilidades**
+
 
 Você tem total liberdade para incrementar o projeto da forma como quiser.
 
