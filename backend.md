@@ -39,7 +39,7 @@ Temos as seguintes regras:
     - A área de cobertura é definida pelo formato `GeoJSON MultiPolygon` (https://en.wikipedia.org/wiki/GeoJSON) 
 2. CNPJ deverá ser um campo único por PDV
 
-Usando as informações anteriores, crie uma API em REST ou GraphQL(se estiver ligado nas novas tendências :wink:) que execute as funções abaixo. Você pode utilizar qualquer linguagem de programação e também qualquer banco de dados. Faça da forma como preferir, ou que se sinta mais confortável.
+Usando as informações anteriores, crie uma API em REST ou **GraphQL**(se estiver ligado nas novas tendências :wink:) que execute as funções abaixo. Você pode utilizar qualquer linguagem de programação e também qualquer banco de dados. Faça da forma como preferir, ou que se sinta mais confortável.
 
 ### 1. Crie PDV: 
 
