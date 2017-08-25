@@ -1,4 +1,4 @@
-# Desafio front-end (EM CONSTRUÇÃO)
+# Desafio front-end
 
 ## About the Challenge 
 
@@ -60,3 +60,6 @@ Your code will be under review of the Zx's Global Engineering team. What we will
 
 
 Feel free to implement it the way you feel more confortable :)
+
+**Any doubts? You can open issues here and we will get in touch**
+
