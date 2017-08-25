@@ -11,7 +11,6 @@ You can check out a flux sample at: https://www.ze.delivery/ (our production env
 
 We're   using   GraphQL:    https://www.graphql.com/guides/
 
-
 ### Visual
 We want you to feel free to develop the markup the way you want, we have no wireframes or something like that for this task. You will create 2 screens:
   - Home:
@@ -42,10 +41,14 @@ The   API   link   is:    https://803votn6w7.execute-api.us-west-2.amazonaws.com
         - Query:    http://bit.ly/2ugVEYE
 
 
+### Tech Requirements:
 
-### Docs and Deploy:
-
-I want to be able to run your project locally by using `npm start` and thats it :)
+- You need to create a repo on GitHub to host your code
+- You're not allowed to use any CSS Frameworks (Bootstrap, Bulma, PureCss etc.)
+- Avoid using scaffolds (Create React App etc.), we want to see how you make your project structure
+- You should use React and React Router
+- Tests will be a plus!
+- I want to be able to run your project locally by using `npm start`
 
 ## Modo de avaliação
 
