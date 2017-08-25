@@ -5,10 +5,21 @@
 We're using GraphQL here, so thats gonna be the way your going to receive the data(sounds good, right?).
 
 ### What you should develop?
-Its simple. The user needs to type an address inside a field and be redirected to a products list page.
+Its simple. The user needs to type an address inside a field and be redirected to a products list page. So your job as a front-end engineer will be to create 2 simple screens using React and Apollo Client consuming and sending data to our API.
 
-We're   using   GraphQL:    https://www.graphql.com/guides/ 
+You can check out a flux sample at: https://www.ze.delivery/ (our production env)
 
+We're   using   GraphQL:    https://www.graphql.com/guides/
+
+
+### Visual
+We want you to feel free to develop the markup the way you want, we have no wireframes or something like that for this task. You will create 2 screens:
+  - Home:
+    - Needs to have a header, a footer and a input for the user to fill up with the address.
+  - Products page:
+    - We want to see the products as cards, with the product title, price and buttons to add/remove the product.
+
+### About the API
 The   API   link   is:    https://803votn6w7.execute-api.us-west-2.amazonaws.com/dev/public/graphql
   - Home
     - To   find   the   latitude   and   longitude   of   an   address,   please   use   a   google   maps   API.
@@ -32,21 +43,17 @@ The   API   link   is:    https://803votn6w7.execute-api.us-west-2.amazonaws.com
 
 
 
-### 4. Docs and Deploy:
+### Docs and Deploy:
 
-O seu projeto deve ser **mutiplataforma**.
-Crie uma documentação e explique como como rodar localmente e também como realizar o deploy.
-Quanto mais simples for para realizar o deploy, melhor!
+I want to be able to run your project locally by using `npm start` and thats it :)
 
 ## Modo de avaliação
 
-Seu código será avaliado pelo time de engenharia da ZX-Ventures e alguns critérios serão levados em conta:
-- **Desempenho**
-- **Testes**
-- **Manutenabilidade**
-- **Separação de responsabilidades**
+Your code will be under review of the Zx's Global Engineering team. What we will look for:
+- **Good Practices and patterns**
+- **Code and Folder Structure**
+- **Componentization and data flux**
+- **Easy to understand code(no need for fancy stuff)**
 
 
-Você tem total liberdade para incrementar o projeto da forma como quiser.
-
-BOA SORTE!
+Feel free to implement it the way you feel more confortable :)
