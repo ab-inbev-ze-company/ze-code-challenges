@@ -55,7 +55,9 @@ Dado uma localização (`lng`, `lat`), busque o PDV mais próximo e que atenda �
 
 ### 4. Documentação e Deploy:
 
-Crie uma documentação e explique como como rodar o seu projeto.
+O seu projeto deve ser **mutiplataforma**.
+Crie uma documentação e explique como como rodar localmente e também como realizar o deploy.
+Quanto mais simples for para realizar o deploy, melhor!
 
 ## Modo de avaliação
 
