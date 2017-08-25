@@ -22,8 +22,7 @@ Vamos fornecer para você alguns dados. Neste [json](files/pdvs.json) você enco
         "address": { 
           "type": "Point",
           "coordinates": [-46.57421, -21.785741]
-        }, // Localização do PDV,
-        "deliveryCapacity": 5
+        }, // Localização do PDV
     }
   ]
 }
@@ -52,7 +51,7 @@ Busque um PDV específico a partir de seu `id`.
 
 ### 3. Busque PDV:
 
-Dado uma localização (`lat`, `lng`), busque o PDV mais próximo e que atenda à mesma, conforme sua área de cobertura.
+Dado uma localização (`lng`, `lat`), busque o PDV mais próximo e que atenda à mesma, conforme sua área de cobertura.
 
 ### 4. Documentação e Deploy:
 
