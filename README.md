@@ -15,3 +15,5 @@ Escolha abaixo o desafio que estiver mais aderente aos seus anseios profissionai
 [Desafio front-end](frontend.md)
 
 [Desafio mobile](mobile.md)
+
+[Desafio QA](qa.md)
