@@ -5,7 +5,7 @@
 We're using GraphQL here, so thats gonna be the way your going to receive the data(sounds good, right?).
 
 ### What you should develop?
-Its simple. The user needs to type an address inside a field and be redirected to a products list page. So your job as a front-end engineer will be to create 2 simple screens using React and Apollo Client consuming and sending data to our API.
+Its simple. The user needs to type an address inside a field and be redirected to a products list page. So your job as a front-end engineer will be to create 2 simple screens consuming and sending data to our API.
 
 You can check out a flux sample at: https://www.ze.delivery/ (our production env)
 
@@ -46,7 +46,7 @@ The   API   link   is:    https://803votn6w7.execute-api.us-west-2.amazonaws.com
 - You need to create a repo on GitHub to host your code
 - You're not allowed to use any CSS Frameworks (Bootstrap, Bulma, PureCss etc.)
 - Avoid using scaffolds (Create React App etc.), we want to see how you make your project structure
-- You should use React and React Router
+- React or Vanilla JS will be a plus, but you can use whatever you want =)
 - Tests will be a plus!
 - I want to be able to run your project locally by using `npm start`
 
