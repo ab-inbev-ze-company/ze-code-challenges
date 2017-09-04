@@ -22,22 +22,22 @@ We want you to feel free to develop the markup the way you want, we have no wire
 The   API   link   is:    https://803votn6w7.execute-api.us-west-2.amazonaws.com/dev/public/graphql
   - Home
     - To   find   the   latitude   and   longitude   of   an   address,   please   use   a   google   maps   API.
-      - Use   the   following   address   to   find   a   POC:    Rua   Américo   Brasiliense,   São   Paulo . 
-      - The   Query   needed   to   get   the   right   POC   (Get   the   first   POC):
+    - Use   the   following   address   to   find   a   POC:    Rua   Américo   Brasiliense,   São   Paulo . 
+    - The   Query   needed   to   get   the   right   POC   (Get   the   first   POC):
         - Query:       http://bit.ly/2uSIRPz
         - Arguments:
           - Algorithm:   "NEAREST".
           - Lat:   Use   as   String.
           - Long:   Use   as   String.
           - Now:   Pass   the   current   Date   formatted.
-          - Product   List
+  - Product   List
       - The   Query   needed   to   get   the   products
         - Query:    http://bit.ly/2vSpmqK
-          - Arguments:
-            - Id:   id   of   the   POC.
-            - Search:   if   ""   (empty),   do   not   filters   by   search.
-            - CategoryId:   if   0   (Zero)   do   not   filters   by   category.
-            - The   Query   needed   to   get   the   category   list
+        - Arguments:
+          - Id:   id   of   the   POC retrivied from previous query (PocSearch).
+          - Search:   if   ""   (empty),   do   not   filters   by   search.
+          - CategoryId:   if   0   (Zero)   do   not   filters   by   category.
+      - The   Query   needed   to   get   the   category   list
         - Query:    http://bit.ly/2ugVEYE
 
 
@@ -50,7 +50,7 @@ The   API   link   is:    https://803votn6w7.execute-api.us-west-2.amazonaws.com
 - Tests will be a plus!
 - I want to be able to run your project locally by using `npm start`
 
-## Modo de avaliação
+## Evaluation Method
 
 Your code will be under review of the Zx's Global Engineering team. What we will look for:
 - **Good Practices and patterns**
