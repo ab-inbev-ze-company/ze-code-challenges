@@ -1,0 +1,5 @@
+README.html
+*.cache
+*.dir-locals.el
+*.pyc
+*.sqlite3

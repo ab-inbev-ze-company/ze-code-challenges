@@ -1,0 +1,12 @@
+version: '3'
+services:
+  app:
+    container_name: app
+    build: .
+    volumes:
+      - ./:/app
+    ports:
+      - 54000:5000
+    working_dir: /app
+    command: /usr/local/bin/python app.py
+    network_mode: "bridge"
