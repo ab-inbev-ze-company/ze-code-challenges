@@ -1,6 +1,6 @@
-# Desafio back-end
+# Back-end Challenge
 
-## Sobre o desafio
+## About the Challenge
 
 Vamos fornecer para você alguns dados. Neste [json](files/pdvs.json) você encontra centenas de PDVs listados com a seguinte estrutura:
 
@@ -35,39 +35,40 @@ Esses PDVs são representados no mapa da seguinte forma:
 Temos as seguintes regras:
 
 1. Um PDV tem as seguintes características:
-    - A localização é definida pelo formato `GeoJSON Point` (https://en.wikipedia.org/wiki/GeoJSON)
-    - A área de cobertura é definida pelo formato `GeoJSON MultiPolygon` (https://en.wikipedia.org/wiki/GeoJSON) 
-2. CNPJ deverá ser um campo único por PDV
+    - The location is defined by the format `GeoJSON Point` (https://en.wikipedia.org/wiki/GeoJSON)
+    - The coverage area is defined by the format `GeoJSON MultiPolygon` (https://en.wikipedia.org/wiki/GeoJSON) 
+2. CNPJ must be a unique field by PDV
 
 Usando as informações anteriores, crie uma API em REST ou **GraphQL**(se estiver ligado nas novas tendências :wink:) que execute as funções abaixo. Você pode utilizar qualquer linguagem de programação e também qualquer banco de dados. Faça da forma como preferir, ou que se sinta mais confortável.
 
-### 1. Crie PDV: 
+### 1. Create PDV: 
 
-Todos os campos são obrigatórios e devem respeitar as regras enunciadas neste desafio.
+All fields are required and must follow the rules set in this challenge.
 
-### 2. Mostre um PDV específico:
+### 2. Get PDV by id:
 
-Busque um PDV específico a partir de seu `id`.
+Get a specific PDV by `id`.
 
-### 3. Busque PDV:
+### 3. Search PDV:
 
 Dado uma localização (`lng`, `lat`), busque o PDV mais próximo e que atenda à mesma, conforme sua área de cobertura.
 
-### 4. Documentação e Deploy:
+### 4. Tech Requirements, Docs and Deploy:
 
-O seu projeto deve ser **mutiplataforma**.
-Crie uma documentação e explique como como rodar localmente e também como realizar o deploy.
-Quanto mais simples for para realizar o deploy, melhor!
+* Your project must be **cross-platform**.
+* Crie uma documentação e explique como como rodar localmente e também como realizar o deploy.
+* Quanto mais simples for para realizar o deploy, melhor!
 
-## Modo de avaliação
+## Evaluation Method
 
-Seu código será avaliado pelo time de engenharia da ZX-Ventures e alguns critérios serão levados em conta:
+Your code will be under review of the Zx's Global Engineering team. What we will look for:
 - **Desempenho**
 - **Testes**
 - **Manutenabilidade**
 - **Separação de responsabilidades**
+- **Engenharia de software**
 
 
-Você tem total liberdade para incrementar o projeto da forma como quiser.
+Feel free to implement it the way you feel more confortable :)
 
-BOA SORTE!
+GOOD LUCK!
