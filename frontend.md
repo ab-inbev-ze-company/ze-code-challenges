@@ -1,4 +1,4 @@
-# Desafio front-end
+# Front-end Challenge
 
 ## About the Challenge 
 
