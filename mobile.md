@@ -1,5 +1,5 @@
-# Desafio mobile
+# Mobile Challenge
 
-## Sobre o desafio
+## About the challenge
 
-Desafio em construção
+Coming soon
