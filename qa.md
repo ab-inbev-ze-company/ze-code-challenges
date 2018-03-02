@@ -1,33 +1,35 @@
-# Desafio QA
+# QA Challange
 
-## Sobre o desafio
+## About the challange
 
-Não queremos que nossos queridos consumidores passem por algum problema durante uma navegação no Zé Delivery, ainda mais em um momento tão importante como esse, onde tudo que ele espera é escolher sua cerveja geladinha e que ela chegue bem rápido.
 
-Bom, pensando nisso, vamos implementar algumas coisas pra minimizar esse risco.
+We don't want our customers to have problems and bugs while using our platform, Zé Delivery. Specially in this super important moment, which is when he chooses a cold beer to enjoy it right away.
 
-* Para o exercício em questão, favor utilizar o site do Zé Delivery como base: https://ze.delivery
+Well, having that in mind, we are implementing a few things to minimize this risk:
+*To develop the code challange, please use our platform: https://ze.delivery
 
-### 1. Defina os KBF:
 
-Defina 3 KBFs que você considere mais importante para o négocio.
+### 1. Define the KBFs:
 
-* KBF = Key Business Flow, ou seja, os fluxos considerados mais importantes para nosso negócio e que mantenha a plataforma em funcionamento.
+Define the 3 main KBFs important to the business.
+* KBF = Key Business Flow, the most important flows to the business to keep the platform working properly
 
-### 2. Crie os planos de testes:
 
-Criei um plano de teste para cada um dos 3 KBF definidos na etapa anterior, contendo os tipos de testes que você constuma fazer, com critérios de aceitação e resultados encontrados.
+### 2. Create test plans:
 
-### 3. Automação
+Develop a test plan for each of these 3 KBFs and explain the kind of test that you would do, the acceptance criterias and the results found
 
-Para cada cenário montado, verifique se seria possível desenvolver um teste automatizado.
-Caso positivo, desenvolva esse teste na linguagem/framework que se sentir mais confortável.
+### 3. Automated test
 
-### 4. Aplicação do teste automatizado
+For each scenario developed, check if it's possible to be automated.
+If possible, develop this test in the framework/language that you feel more confortable
 
-E, por fim, explique um pouco como você faria para incluir estes testes na rua rotina de trabalho: Ferramenta utilizada para desenvolver e rodar, integrações e timming em relação ao time de devs.
 
-Utilize seus conhecimentos e ideias, no item 4 será avaliada sua criatividade e experiências passadas
-Seu teste será avaliado pelo time de engenharia da ZX-Ventures.
+### 4. Automated test applications
 
-BOA SORTE!
+Finally, describe how would you include all these tests in your daily work routine: Tool used to develop and run tests, integrations and timming considering the devs team.
+
+Use your knolegde and new ideias, in this item 4 your criativity and experience level will be evaluated.
+This test will be evaluated by ZX-Ventures Engineering team.
+
+Good Luck!
