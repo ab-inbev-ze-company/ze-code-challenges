@@ -10,19 +10,24 @@ Bom, pensando nisso, vamos implementar algumas coisas pra minimizar esse risco.
 
 ### 1. Defina os KBF:
 
-Defina 3 KBF que você considere mais importante para o négocio.
+Defina 3 KBFs que você considere mais importante para o négocio.
 
-* KBF = Key Business Flow, ou seja, os fluxos considerados mais importantes para nosso negócio.
+* KBF = Key Business Flow, ou seja, os fluxos considerados mais importantes para nosso negócio e que mantenha a plataforma em funcionamento.
 
 ### 2. Crie os planos de testes:
 
-Criei um plano de teste para cada um dos 3 KBF definidos na etapa anterior.
+Criei um plano de teste para cada um dos 3 KBF definidos na etapa anterior, contendo os tipos de testes que você constuma fazer, com critérios de aceitação e resultados encontrados.
 
 ### 3. Automação
 
-Explique se seria possível utilizar automação de testes para os cenários criados e cite que ferramentas ou tecnologias utilizaria para isso, caso positivo.
+Para cada cenário montado, verifique se seria possível desenvolver um teste automatizado.
+Caso positivo, desenvolva esse teste na linguagem/framework que se sentir mais confortável.
 
+### 4. Aplicação do teste automatizado
+
+E, por fim, explique um pouco como você faria para incluir estes testes na rua rotina de trabalho: Ferramenta utilizada para desenvolver e rodar, integrações e timming em relação ao time de devs.
+
+Utilize seus conhecimentos e ideias, no item 4 será avaliada sua criatividade e experiências passadas
 Seu teste será avaliado pelo time de engenharia da ZX-Ventures.
 
 BOA SORTE!
-
