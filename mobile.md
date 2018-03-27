@@ -8,9 +8,14 @@ FUNCTIONAL  REQUIREMENTS
 
 The  first  release  of  the  app  will  be  very  limited  in  scope,  but  will  serve  as  the  foundation  for  future  releases.  You're going  to  develop  now  basically  3  screens:
 
-●  Home  -  Where  the  user  needs  to  input  his  address,  to  find  the  localization  (lat,lng)  needed  to  find  the  POC (Point  of  contact)  where  you're  going  to  get  the  list  of  the  products.  
-●  Product  List  -  Where  the  user  will  get  the  categories  list  from  the  service  and  change  the  list  according  to the  selected  category.
-●  Product  Detail  -  Where  the  user  will  see  some  details  of  the  products.
+-  Home  -  Where  the  user  needs  to  input  his  address,  to  find  the  localization  (lat,lng)  needed  to  find  the  POC (Point  of  contact)  where  you're  going  to  get  the  list  of  the  products.  
+
+-  Product  List  -  Where  the  user  will  get  the  categories  list  from  the  service  and  change  the  list  according  to the  selected  category.
+
+-  Product  Detail  -  Where  the  user  will  see  some  details  of  the  products.
+
+![mobile](https://raw.githubusercontent.com/ZXVentures/code-challenge/master/files/images/mobile.png)
+
 
 TECHNICAL  REQUIREMENTS
 
@@ -23,7 +28,7 @@ The  API  link  is:  https://803votn6w7.execute-api.us-west-2.amazonaws.com/dev/
 - Home  
 	- To  find  the  latitude  and  longitude  of  an  address,  please  use  a  google  maps  API.
 
-■ Use  the  following  address  to  find  a  POC:  Rua  Américo  Brasiliense,  São  Paulo  . ○ The  Query  needed  to  get  the  right  POC  (Get  the  first  POC):
+- Use  the  following  address  to  find  a  POC:  Rua  Américo  Brasiliense,  São  Paulo  . ○ The  Query  needed  to  get  the  right  POC  (Get  the  first  POC):
 
 -   Query:  http://bit.ly/2uSIRPz
     
@@ -38,7 +43,7 @@ The  API  link  is:  https://803votn6w7.execute-api.us-west-2.amazonaws.com/dev/
     -  Now:  Pass  the  current  Date  formatted.
         
 
-● Product  List
+- Product  List
 
 -   The  Query  needed  to  get  the  products
     
@@ -55,7 +60,7 @@ The  API  link  is:  https://803votn6w7.execute-api.us-west-2.amazonaws.com/dev/
 -   The  Query  needed  to  get  the  category  list
     
 
-■ Query:  http://bit.ly/2ugVEYE
+- Query:  http://bit.ly/2ugVEYE
 Feel  free  to  use  package/dependency  managers  (ex:  Maven,  CocoaPods,  npm,  etc)  if  you  see  fit.
 
 
@@ -67,16 +72,16 @@ The  project  source  code  and  dependencies  should  be  made  available  in  
 2.  Create  a  "development"  branch  and  commit  the  code  to  it.  Do  not  push  the  code  to  the  master  branch.  3.  Create  a "screenshots"  sub-folder  and  include  at  least  two  screenshots  of  the  app.  
 4.  Include  a  README  file  that  describes:
 
-●  Special  build  instructions,  if  any  
-●  List  of  third-party  libraries  used  and  short  description  of  why/how  they  were  used  5.  Once  the  work  is complete,  create  a  pull  request  and  send  us  the  link.
+-  Special  build  instructions,  if  any  
+-  List  of  third-party  libraries  used  and  short  description  of  why/how  they  were  used  5.  Once  the  work  is complete,  create  a  pull  request  and  send  us  the  link.
 
 
 NOTES
 
 Here  at  Zx  Ventures  we're  big  believers  of  collective  code  ownership,  so  remember  that  you're  writing  code  that  will be  reviewed,  tested,  maintained  by  other  developers.  Things  to  keep  in  mind:
 
-●  First  of  all,  it  should  compile  and  run  without  errors  
-●  Be  as  clean  and  consistent  as  possible  
-●  Despite  the  project  simplicity,  don't  ignore  development  and  architecture  best  practices.  It's expected  that  code  architecture  will  be  structured  to  support  project  growth.
+-  First  of  all,  it  should  compile  and  run  without  errors  
+-  Be  as  clean  and  consistent  as  possible  
+-  Despite  the  project  simplicity,  don't  ignore  development  and  architecture  best  practices.  It's expected  that  code  architecture  will  be  structured  to  support  project  growth.
 
 This  project  description  is  intentionally  vague  in  some  aspects,  but  if  you  need  assistance  feel  free  to  ask  for  help.  We wish  you  good  luck!
