@@ -1,5 +1,13 @@
 # Data Challenge
 
+## About the Challenge
+
+We want to check your capacity of understanding and developing dimensional models, query databases, create dashboard visuals and also business and logics skills, hope you have a good time! 🙃
+
+### What you should develop
+
+We expect you send us one `.pdf` file with the answers to all this questions. You can use the tool you feel more confortable, Microsoft Word, Excel, Apple Pages, pen and paper.
+
 ## Exercise 1
 
 Señor Bayes is on our top 10 delivery man in Mexico City. Since he always want to grant a ★★★★★ rating and know the best roads through the city he normally makes a delivery at a 40 km/h speed to make sure he won’t break any beer bottle in the way to the client but speed up close to the city speed limit of 70 km/h with the same path to go back to get more deliveries as soon as possible. Eli, our operational manager want to make some metrics on delivery man availability and need to calculate the average speed for the whole delivery process of the stores. What, is the average speed performed by Señor Bayes on the delivery described above?
@@ -118,3 +126,7 @@ Share two projects that you have developed that required complex ETL, explain th
 ## Exercise 8
 
 Draw a data flow for loading data from an e-Commerce site to a Data Mart. The data will be extracted from APIs and needs to be combined with data from Excel files before it is stored in the Data Mart - explain the main components and the tools you would use. Show how the end-users will access the data.
+
+**Any doubts? You can open issues here in GitHub and we will get in touch**
+
+We wish you good luck! ✌️
