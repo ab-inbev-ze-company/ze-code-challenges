@@ -14,7 +14,7 @@ Señor Bayes is on our top 10 delivery man in Mexico City. Since he always want 
 
 ## Exercise 2
 
-Bob is the beer bottling line manager and was late to stop the machine when it alarmed about defected bottles in one six-pack. Five packs passed and shuffle themselves at the packaging station. It is known that sometimes a six-pack is packed with fragile bottles produced by other brewries. The fragile bottles weight 90 grams each and the regular bottles weight 100 grams. Consider that all the bottles at a six-pack have always the same weight. How Bob can figure out which of the 5 six-packs contain the defected bottles using the precision scale only once.
+You have 11 stacks of 10 beer cans. All of the cans in one of these stacks are defected, all the other cans are not. A real can weighs 10 grammes. A defected can weighs 11 grammes. You have a scale that provides an accurate readout. What is the minimum number of weighings needed to determine which stack is defected? How you figured it out?
 
 ## Exercise 3
 
