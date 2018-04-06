@@ -107,7 +107,6 @@ Given the charts below build a dimensional model to represent the information
 ## Exercise 6
 
 ![dimensional_model](https://raw.githubusercontent.com/ZXVentures/code-challenge/master/files/images/dimensional_model.png)
-
 _* DateID field is a date datatype_
 
 Given the dimensional model presented, build the following SQL queries:
@@ -117,7 +116,6 @@ Given the dimensional model presented, build the following SQL queries:
 - Returning the most recent inventory position of quantity of products per category;
 
 - Returning the quantity of distinct products that have ever been stored in each state
-- Returning the last position of volume of products per month, and the average volume per product, per state and product of USA in 2017
 
 ## Exercise 7
 
@@ -126,7 +124,6 @@ Share two projects that you have developed that required complex ETL, explain th
 ## Exercise 8
 
 Draw a data flow for loading data from an e-Commerce site to a Data Mart. The data will be extracted from APIs and needs to be combined with data from Excel files before it is stored in the Data Mart - explain the main components and the tools you would use. Show how the end-users will access the data.
-
 **Any doubts? You can open issues here in GitHub and we will get in touch**
 
 We wish you good luck! ✌️
