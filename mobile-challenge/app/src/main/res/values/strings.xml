@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name" translatable="false">Drunken Master</string>
+
+    <string name="activity_title_home">Delivery address</string>
+    <string name="label_home_subtitle">I will use your address to find the fastest delivery option available in your area.</string>
+    <string name="label_home_title">Where are you?</string>
+    <string name="hint_your_address">Your address</string>
+    <string name="error_toast_address_not_found">Address not found</string>
+
+    <string name="error_label_delivery_not_found">Delivery not found :(</string>
+
+    <string name="activity_title_product_detail">Product Detail</string>
+    <string name="cd_product_image">Product image</string>
+    <string name="label_description">Description</string>
+    <string name="unavailable">Not available</string>
+
+</resources>

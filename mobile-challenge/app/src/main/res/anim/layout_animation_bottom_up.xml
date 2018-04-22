@@ -1,0 +1,4 @@
+<layoutAnimation xmlns:android="http://schemas.android.com/apk/res/android"
+    android:animation="@anim/bottom_up"
+    android:animationOrder="normal"
+    android:delay="15%" />

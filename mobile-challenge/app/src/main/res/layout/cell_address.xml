@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/full_address_textView"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:clickable="true"
+    android:drawableLeft="@drawable/ic_location_on_black_24dp"
+    android:drawablePadding="16dp"
+    android:drawableStart="@drawable/ic_location_on_black_24dp"
+    android:ellipsize="end"
+    android:focusable="true"
+    android:foreground="?attr/selectableItemBackground"
+    android:gravity="center_vertical"
+    android:maxLines="1"
+    android:minHeight="?attr/actionBarSize"
+    tools:text="Address Address Address Address Address Address Address " />
