@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="activity_title_home">Endereço de entrega</string>
+    <string name="label_home_subtitle">Vou utilizar seu endereço para localizar a opção de entrega mais rapida em sua area.</string>
+    <string name="label_home_title">Onde você esta?</string>
+    <string name="hint_your_address">Seu endereço</string>
+    <string name="error_toast_address_not_found">Endereço não encontrado</string>
+
+    <string name="error_label_delivery_not_found">Delivery não encontrado :(</string>
+
+    <string name="activity_title_product_detail">Detalhes do produto</string>
+    <string name="cd_product_image">Image do produto</string>
+    <string name="label_description">Descrição</string>
+    <string name="unavailable">Não disponível</string>
+
+</resources>
