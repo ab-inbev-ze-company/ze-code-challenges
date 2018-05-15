@@ -1,4 +1,4 @@
-# Front-end Challenge
+# Front-end/Mobile Challenge
 
 ## About the Challenge 
 
@@ -55,7 +55,7 @@ The   API   link   is:    https://803votn6w7.execute-api.us-west-2.amazonaws.com
 #### If your running for a mobile position:
 - You should use React Native to develop your application.
 - I want to be able to run your project with one single command
-- Hosting it its a BIG plus (Expo shoudl do the job for ya)
+- Hosting it its a BIG plus (Expo should do the job for ya)
 
 ## Evaluation Method
 
