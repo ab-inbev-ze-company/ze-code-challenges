@@ -12,9 +12,7 @@ Escolha abaixo o desafio que estiver mais aderente aos seus anseios profissionai
 
 [Back-end Challenge](backend.md)
 
-[Front-end Challenge](frontend.md)
-
-[Mobile Challenge](mobile.md)
+[Front-end / Mobile Challenge](frontend-mobile.md)
 
 [QA Challenge](qa.md)
 
