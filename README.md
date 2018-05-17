@@ -16,6 +16,8 @@ Escolha abaixo o desafio que estiver mais aderente aos seus anseios profissionai
 
 [QA Challenge](qa.md)
 
+[Mobile Challenge (deprecated)](mobile-old.md)
+
 ## Attention
 
 * Please, do not open a PR with your test.
