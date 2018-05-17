@@ -42,9 +42,14 @@ The   API   link   is:    https://803votn6w7.execute-api.us-west-2.amazonaws.com
 
 
 ### Tech Requirements (for both positions):
-- You need to create a repo on GitHub to host your code
+- You need to create a repo on GitHub/Bitbucket to host your code
+  - Github users:
+      - @leocadastro
+      - @drdpedroso
+      - @CesarNobre
+  - Bitbucket users:
+      - @leonardocadastro
 - Avoid using scaffolds (Create React App etc.), we want to see how you make your project structure
-- Tests will be a plus!
 - Keep it simple, no need for fancy stuff :)
 
 #### If your running for a front-end position:
@@ -64,9 +69,6 @@ Your code will be under review of the Zx's Global Engineering team. What we will
 - **Code and Folder Structure**
 - **Componentization and data flux**
 - **Easy to understand code (again, no need for fancy stuff)**
-
+- **Tests**
 
 Feel free to implement it the way you feel more confortable :)
-
-**Any doubts? You can open issues here and we will get in touch**
-
