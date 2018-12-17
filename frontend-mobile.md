@@ -45,7 +45,6 @@ The   API   link   is:    https://803votn6w7.execute-api.us-west-2.amazonaws.com
 - You need to create a repo on GitHub/Bitbucket to host your code
   - Github users:
       - @leocadastro
-      - @drdpedroso
       - @CesarNobre
   - Bitbucket users:
       - @leonardocadastro
