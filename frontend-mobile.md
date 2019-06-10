@@ -43,11 +43,10 @@ The   API   link   is:    https://803votn6w7.execute-api.us-west-2.amazonaws.com
 
 ### Tech Requirements (for both positions):
 - You need to create a repo on GitHub/Bitbucket to host your code
-  - Github users:
-      - @leocadastro
-      - @CesarNobre
+  - Github user:
+      - @karlFrascari2
   - Bitbucket users:
-      - @leonardocadastro
+      - @karlFrascari2
 - Avoid using scaffolds (Create React App etc.), we want to see how you make your project structure
 - Keep it simple, no need for fancy stuff :)
 
