@@ -19,7 +19,7 @@ We hope you are eager to take one of our code challenges and show us how amazing
 - [Front-end / Mobile](frontend-mobile.md)
 - [QA](qa.md)
 - [Data Analytics / Business Intelligence](data-bi.md)
-- [Data Analytics / Business Intelligence](data-science.md)
+- [Data Science](data-science.md)
 
 ## How to deliver?
 
