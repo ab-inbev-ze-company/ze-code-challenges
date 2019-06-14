@@ -4,7 +4,7 @@
 
 *... Kaggle for the win!* 
 
-To evaluate for Zé's `Data Science` positions, we ask you to give a look to the following Kaggle challenge: 
+To evaluate for Zé's `Data Science` positions, we ask you to take a look to the following Kaggle challenge, and follow the instructions there to provide a solution: 
 
 - https://www.kaggle.com/c/house-prices-advanced-regression-techniques
 
