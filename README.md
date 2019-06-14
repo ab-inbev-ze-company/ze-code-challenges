@@ -1,24 +1,32 @@
 # ZX-Ventures Challenge
 
-## Problema
+## Welcome to Zé Delivery!
+You are in a barbecue with your friends having a nice time and the beer ran out! Everyone is already drinking and thus, no one shall drive to the nearest store, what you guys do? 
 
-Você está no churrasco com o pessoal e acabou a cerveja? A galera já bebeu umas latinhas e ninguém pode dirigir, certo? Imagina você ter algum modo de pedir umas cervejas online e algum PDV te entregar geladinha e em até 1 hora (ah, e com preço de mercado, claro). Bom, vamos tentar resolver esse problema.
+With [Zé Delivery](https://ze.delivery) you can order beers from your smartphone and receiving it in less than an hour, cold and ready to drink! Oh, and the price is the same you will find in the nearest market store. Cool, right? 
 
-* PDV = Ponto de Venda
+We strongly believe everyone deserves to order a beer no matter where, how and when they want it. To fulfill that, we use technology. :)
 
-## Escolha seu desafio
+## Choose your challenge
 
-Escolha abaixo o desafio que estiver mais aderente aos seus anseios profissionais:
+So, in order to fulfill this vision and deliver this amazing experience to all our customers, we have an incredible team that is focused to deliver the best experience possible to our users. Working alongside with Product Managers and Designers, our Engineers and Scientists develop and maintain our tech stack, that must be robust, resilient and scalable (and also as simple as possible, right?).
 
-[Back-end Challenge](backend.md)
+We hope you are eager to take one of our code challenges and show us how amazing you are! We will be cheering for you, good luck!
 
-[Front-end / Mobile Challenge](frontend-mobile.md)
+*Choose the challenge related to the position you are interested in:*
 
-[QA Challenge](qa.md)
+- [Back-end](backend.md)
+- [Front-end / Mobile](frontend-mobile.md)
+- [QA](qa.md)
+- [Data Analytics / Business Intelligence](data-bi.md)
+- [Data Science](data-science.md)
 
-[Mobile Challenge (deprecated)](mobile-old.md)
-
-## Attention
+## How to deliver?
 
 * Please, do not open a PR with your test.
 * Please, do not fork this repo.
+
+## Oh, and don't forget!
+
+* If you have any question or want to share any information with us, please, don't hesitate to reach your contact at ZX Ventures/Zé Delivery.
+

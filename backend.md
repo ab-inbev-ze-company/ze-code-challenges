@@ -1,9 +1,8 @@
-# Back-end Challenge
+# Backend Challenge
 
 ## About the Challenge
 
-Vamos fornecer para você alguns dados. Neste [json](files/pdvs.json) você encontra centenas de PDVs listados com a seguinte estrutura:
-
+In this [json](files/pdvs.json) you will find data about hundreds of partners with the following format:
 ```javascript
 {
   "pdvs": [ 
@@ -28,47 +27,45 @@ Vamos fornecer para você alguns dados. Neste [json](files/pdvs.json) você enco
 }
 ```
 
-Esses PDVs são representados no mapa da seguinte forma:
+Below, you can give a look on how these partners might be represented in a map:
 
-![PDVs no mapa](files/images/pdvs.png)
+![Partners in map](files/images/pdvs.png)
 
-Temos as seguintes regras:
+Before talking about the challenge itself, let me give you some information about the partners' specification:
+We have some requirements that you must pay attention:
 
-1. Um PDV tem as seguintes características:
-    - The location is defined by the format `GeoJSON Point` (https://en.wikipedia.org/wiki/GeoJSON)
-    - The coverage area is defined by the format `GeoJSON MultiPolygon` (https://en.wikipedia.org/wiki/GeoJSON) 
-2. CNPJ must be a unique field by PDV
+1. The `address` is defined by the format `GeoJSON Point` (https://en.wikipedia.org/wiki/GeoJSON)
+2. The `coverageArea` is defined by the format `GeoJSON MultiPolygon` (https://en.wikipedia.org/wiki/GeoJSON) 
+3. The `document` must be a unique field (as it is the CNPJ)
 
-Usando as informações anteriores, crie uma API em REST ou **GraphQL**(se estiver ligado nas novas tendências :wink:) que execute as funções abaixo. Você pode utilizar qualquer linguagem de programação e também qualquer banco de dados. Faça da forma como preferir, ou que se sinta mais confortável.
+## What we want you to do
 
-### 1. Create PDV: 
+Considering all the info we gave to you, we expect you to develop a service that provides API using REST or GraphQL and enable the following functionalities. The programming language and the database you choose to use it is entirely up to you. 
 
-All fields are required and must follow the rules set in this challenge.
+### 1. Create partner: 
 
-### 2. Get PDV by id:
+All fields are required and must follow the rules set above.
 
-Get a specific PDV by `id`.
+### 2. Get partner by id:
 
-### 3. Search PDV:
+Get a specific partner by its `id`.
 
-Dado uma localização (`lng`, `lat`), busque o PDV mais próximo e que atenda à mesma, conforme sua área de cobertura.
+### 3. Search partner:
+
+Given a specific location (coordinates `lng` and `lat`), search the nearest partner considering each partner's coverage area.
 
 ### 4. Tech Requirements, Docs and Deploy:
 
 * Your project must be **cross-platform**.
-* Crie uma documentação e explique como como rodar localmente e também como realizar o deploy.
-* Quanto mais simples for para realizar o deploy, melhor!
+* Provide a documentation so we know how to execute your service locally and how to deploy it (*focus on simplicity, and don't forget that we should test your service on our own, without further assistance*)
 
 ## Evaluation Method
 
 Your code will be under review of the Zx's Global Engineering team. What we will look for:
-- **Desempenho**
-- **Testes**
-- **Manutenabilidade**
-- **Separação de responsabilidades**
-- **Engenharia de software**
+- **Performance**
+- **Testing**
+- **Maintanability**
+- **Separation of concerns**
+- **Software engineering**
 
-
-Feel free to implement it the way you feel more confortable :)
-
-GOOD LUCK!
+Good luck!

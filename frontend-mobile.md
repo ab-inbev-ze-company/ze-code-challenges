@@ -1,4 +1,4 @@
-# Front-end/Mobile Challenge
+# Frontend/Mobile Challenge
 
 ## About the Challenge 
 
@@ -9,7 +9,7 @@ Its simple. The user needs to type an address inside a field and be redirected t
 
 You can check out a flux sample at: https://www.ze.delivery/ (our production env)
 
-We're   using   GraphQL:    https://www.graphql.com/guides/
+We're using GraphQL (give a look to https://www.graphql.com/guides/)
 
 ### Visual
 We want you to feel free to develop the markup the way you want, we have no wireframes or something like that for this task. You will create 2 screens:

@@ -1,4 +1,4 @@
-# Data Challenge
+# Data Analytics / Business Intelligence Challenge
 
 ## About the Challenge
 
