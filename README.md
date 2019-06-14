@@ -1,10 +1,11 @@
 # ZX-Ventures Challenge
 
 ## Welcome to Zé Delivery!
+You are in a barbecue with your friends having a nice time and the beer ran out! Everyone is already drinking and thus, no one shall drive to the nearest store, what you guys do? 
 
-You are in a barbecue with your friends having a nice time and the beer ran out! As everyone is already drinking and no one can drive to the next store, what you guys do? With [Zé Delivery](https://ze.delivery) you can order beers from your smartphone and receiving it in less than an hour, cold and ready to drink! Oh, and the price is the same you will find in the nearest market store. Cool, right? 
+With [Zé Delivery](https://ze.delivery) you can order beers from your smartphone and receiving it in less than an hour, cold and ready to drink! Oh, and the price is the same you will find in the nearest market store. Cool, right? 
 
-We believe everyone deserves to order a beer no matter where, how and when they want it. 
+We strongly believe everyone deserves to order a beer no matter where, how and when they want it. To fulfill that, we use technology. :)
 
 ## Choose your challenge
 
