@@ -35,7 +35,8 @@ We're looking for an automation test suite for an open API with ATDD approach or
 Create automated tests to get weather using Open Weather API
 [http://openweathermap.org/current](http://openweathermap.org/current) 
 
-##Final considerations
+### Final considerations
+
 To create the tests above, you can choose any programming language, framework etc you feel more comfortable.
 Please provide a document as a summary with the guidelines of the taken approach and the made decisions (e.g selection criteria for language, framework, etc.).
 Don't forget to provide a detailed documentation on how to install and run the tests.
