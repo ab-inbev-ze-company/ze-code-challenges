@@ -52,7 +52,7 @@ The   API   link   is:    https://803votn6w7.execute-api.us-west-2.amazonaws.com
 
 #### If your running for a front-end position:
 - You're not allowed to use any CSS Frameworks (Bootstrap, Bulma, PureCSS etc.)
-- React or Vanilla JS will be a plus, but you can use whatever you want =)
+- React will be a plus, but you can use whatever you want =)
 - I want to be able to run your project locally by using `npm start`
 
 #### If your running for a mobile position:
