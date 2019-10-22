@@ -19,7 +19,7 @@ We want you to feel free to develop the markup the way you want, we have no wire
     - We want to see the products as cards, with the product title, price and buttons to add/remove the product.
 
 ### About the API
-The   API   link   is:    https://803votn6w7.execute-api.us-west-2.amazonaws.com/dev/public/graphql
+The   API   link   is:    https://0ejbtsnh4l.execute-api.us-west-2.amazonaws.com/codechallenge2/public/graphql
   - Home
     - To   find   the   latitude   and   longitude   of   an   address,   please   use   a   google   maps   API.
     - Use   the   following   address   to   find   a   POC:    Rua   Américo   Brasiliense,   São   Paulo . 
