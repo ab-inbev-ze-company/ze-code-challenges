@@ -32,11 +32,11 @@ The   API   link   is:    https://api.code-challenge.ze.delivery/public/graphql
           - Now:   Pass   the   current   Date   formatted.
   - Product   List
       - The   Query   needed   to   get   the   products
-        - Query:    https://bit.ly/2qEAxDl
+        - Query:    https://bit.ly/2N3JQ7k
         - Arguments:
           - Id:   id   of   the   POC retrivied from previous query (PocSearch).
           - Search:   if   ""   (empty),   do   not   filters   by   search.
-          - CategoryId:   if   0   (Zero)   do   not   filters   by   category.
+          - CategoryId:   if   null   do   not   filters   by   category.
       - The   Query   needed   to   get   the   category   list
         - Query:    https://bit.ly/2pMG8Xy
 
