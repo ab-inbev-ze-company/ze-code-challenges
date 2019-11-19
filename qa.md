@@ -7,11 +7,6 @@ We don't want our customers to have problems and bugs while using our platform, 
 
 Well, having that in mind, we must implement a few tests to minimize this risk:
 
-To develop the code challenge, please use our platforms:
-- [Zé Delivery Web](https://www.ze.delivery/)
-- [Zé Delivery Android](https://play.google.com/store/apps/details?id=com.cerveceriamodelo.modelonow&hl=pt_BR)
-- [Zé Delivery iOS](https://apps.apple.com/br/app/z%C3%A9-delivery/id1070070438)
-
 
 ### 1. Identify critical flows
 
@@ -22,6 +17,7 @@ Identify, define and describe 3 important flows that keep the application workin
 
 ### 2. UI automation test
 
+In this step, you'll have to create two automation test suites. One for our web site and another one for our app (you can choose iOS or Android):
 ##### Web automated test
 In our [Web application](https://www.ze.delivery/) create an automation test suite to a scenario you feel is more important to keep the application working properly.
 
