@@ -17,7 +17,8 @@ We hope you are eager to take one of our code challenges and show us how amazing
 
 - [Back-end](backend.md)
 - [Front-end / Mobile](frontend-mobile.md)
-- [QA](qa.md)
+- [Quality (QA)](qa.md)
+- [DevOps / SRE](devops.md)
 - [Data Analytics / Business Intelligence](data-bi.md)
 - [Data Science](data-science.md)
 
