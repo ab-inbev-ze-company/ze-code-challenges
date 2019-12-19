@@ -17,7 +17,7 @@ Identify, define and describe 3 important flows that keep the application workin
 
 ### 2. UI automation test
 
-In this step, you'll have to create two automation test suites. One for our web site and another one for our app (you can choose iOS or Android):
+In this step, you'll have to create one automation test suite. A web test automation or an app test automation:
 ##### Web automated test
 In our [Web application](https://www.ze.delivery/) create an automation test suite to a scenario you feel is more important to keep the application working properly.
 
