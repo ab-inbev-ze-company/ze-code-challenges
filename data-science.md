@@ -14,3 +14,8 @@ We expect you to create a notebook and explain how you approached the problem pr
 
 Good luck!
 
+## How to deliver it
+
+**Once you have finished the challenge, please submit your information on this amazing form:**
+  https://docs.google.com/forms/d/e/1FAIpQLSePVCWxsHZHoRqJY9-XFJHuL7iOjO00sfhZksLBmDbR0KuoLg/viewform
+

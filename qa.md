@@ -31,13 +31,16 @@ We're looking for an automation test suite for an open API with ATDD approach or
 Create automated tests to get weather using Open Weather API
 [http://openweathermap.org/current](http://openweathermap.org/current) 
 
+## How to deliver it
+
+**Once you have finished the challenge, please submit your information on this amazing form:**
+  https://docs.google.com/forms/d/e/1FAIpQLSePVCWxsHZHoRqJY9-XFJHuL7iOjO00sfhZksLBmDbR0KuoLg/viewform
+
 ### Final considerations
 
 To create the tests above, you can choose any programming language, framework etc you feel more comfortable.
 Please provide a document as a summary with the guidelines of the taken approach and the made decisions (e.g selection criteria for language, framework, etc.).
 Don't forget to provide a detailed documentation on how to install and run the tests.
-
-When you're done, please send your solution to a public GIT repository and send us the link.
 
 This test will be evaluated by ZX-Ventures Engineering team.
 

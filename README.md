@@ -26,8 +26,11 @@ We hope you are eager to take one of our code challenges and show us how amazing
 
 * Please, do not open a PR with your test.
 * Please, do not fork this repo.
+* **Once you have finished the challenge, please submit your information on this amazing form:**
+  https://docs.google.com/forms/d/e/1FAIpQLSePVCWxsHZHoRqJY9-XFJHuL7iOjO00sfhZksLBmDbR0KuoLg/viewform
 
 ## Oh, and don't forget!
 
 * If you have any question or want to share any information with us, please, don't hesitate to reach your contact at ZX Ventures/Zé Delivery.
+
 

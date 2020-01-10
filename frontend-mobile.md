@@ -68,3 +68,8 @@ Your code will be under review of the Zx's Global Engineering team. What we will
 - **Tests**
 
 Feel free to implement it the way you feel more confortable :)
+
+## How to deliver it
+
+**Once you have finished the challenge, please submit your information on this amazing form:**
+  https://docs.google.com/forms/d/e/1FAIpQLSePVCWxsHZHoRqJY9-XFJHuL7iOjO00sfhZksLBmDbR0KuoLg/viewform
