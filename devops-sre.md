@@ -48,4 +48,7 @@ Some statistics to check the percentage of space used by a bucket, or any other 
 
 ## How to deliver it
 
-Your code must be made available on GitHub or any other public version control software. Your project must be a standalone project (i.e. **do not fork it from our challenge or any other project**). As soon as you make it available, reach your contact at ZX Ventures in order to proceed in the recruiting process.
+Your code must be made available on GitHub or any other public version control software. Your project must be a standalone project (i.e. **do not fork it from our challenge or any other project**). 
+
+**As soon as you make it available, please submit your information on this amazing form:**
+https://docs.google.com/forms/d/e/1FAIpQLSePVCWxsHZHoRqJY9-XFJHuL7iOjO00sfhZksLBmDbR0KuoLg/viewform

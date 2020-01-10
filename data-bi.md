@@ -127,3 +127,8 @@ Draw a data flow for loading data from an e-Commerce site to a Data Mart. The da
 **Any doubts? You can open issues here in GitHub and we will get in touch**
 
 We wish you good luck! ✌️
+
+## How to deliver it
+
+**Once you have finished the challenge, please submit your information on this amazing form:**
+  https://docs.google.com/forms/d/e/1FAIpQLSePVCWxsHZHoRqJY9-XFJHuL7iOjO00sfhZksLBmDbR0KuoLg/viewform
