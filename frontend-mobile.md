@@ -19,9 +19,9 @@ We want you to feel free to develop the markup the way you want, we have no wire
     - We want to see the products as cards, with the product title, price and buttons to add/remove the product.
 
 ### About the API
-The   API   link   is:    https://api.code-challenge.ze.delivery/public/graphql
+The   API   link   is:    https://api.code-challenge.ze.delivery/public/graphql 
   - Home
-    - To   find   the   latitude   and   longitude   of   an   address,   please   use   a   google   maps   API.
+    - To   find   the   latitude   and   longitude   of   an   address, you can use Google Maps API or use any other Geocoder API that you feel comfortable with.
     - Use   the   following   address   to   find   a   POC:    Rua   Américo   Brasiliense,   São   Paulo . 
     - The   Query   needed   to   get   the   right   POC   (Get   the   first   POC):
         - Query:       https://bit.ly/32Gb2Qi
