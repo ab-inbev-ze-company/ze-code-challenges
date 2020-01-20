@@ -18,15 +18,16 @@ We hope you are eager to take one of our code challenges and show us how amazing
 - [Back-end](backend.md)
 - [Front-end / Mobile](frontend-mobile.md)
 - [Quality (QA)](qa.md)
-- [DevOps / SRE](devops-sre.md)
+- [DevOps / Cloud](devops-cloud.md)
 - [Data Analytics / Business Intelligence](data-bi.md)
+- [Data Engineering](data-engineering.md)
 - [Data Science](data-science.md)
 
 ## How to deliver?
 
 * Please, do not open a PR with your test.
 * Please, do not fork this repo.
-* **Once you have finished the challenge, please submit your information on this amazing form:**
+* **Once you have finished the challenge, please submit your information on this simple (and amazing) form:**
   https://docs.google.com/forms/d/e/1FAIpQLSePVCWxsHZHoRqJY9-XFJHuL7iOjO00sfhZksLBmDbR0KuoLg/viewform
 
 ## Oh, and don't forget!
