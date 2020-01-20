@@ -6,7 +6,7 @@
 
 To evaluate for Zé's `Data Science` positions, we kindly ask you to take a look at the following Kaggle challenge. There, you will find instructions in order to provide a solution to it: 
 
-- https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+- https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
 
 ### What you should provide us
 
