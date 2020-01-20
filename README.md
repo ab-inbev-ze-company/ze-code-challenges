@@ -1,4 +1,4 @@
-# ZX-Ventures Challenge
+# ZX Ventures / Zé Delivery Challenge
 
 ## Welcome to Zé Delivery!
 You are in a barbecue with your friends having a nice time and the beer ran out! Everyone is already drinking and thus, no one shall drive to the nearest store, what you guys do? 
