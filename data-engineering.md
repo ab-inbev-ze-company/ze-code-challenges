@@ -2,7 +2,9 @@
 
 ## About the Challenge... 
 
-At Zé, we were facing the issue of not knowing where are our couriers, making the current status of deliveries invisible to consumers and to our internal backoffice team. Therefore, we decided to start the development of a new app, to be used by each courier, called Zé Entregador. With this app, the couriers (its users) will not only manage data regarding orders that are being delivered but also will allow the retrieval of their geolocation information in real-time.
+At Zé, we were facing the issue of not knowing where are our couriers, making the current status of deliveries invisible to consumers and to our internal backoffice team. Therefore, we decided to start the development of a new app, to be used by each courier, called Zé Entregador. 
+
+With this app, the couriers (its users) will not only manage data regarding orders that are being delivered but also will allow the retrieval of their geolocation information in real-time.
 
 Thus, while tracking each courier current location, we will be able to proper inform the consumers where their order is, thus, reducing their ansiety and also bringing quality, confidence and value for the entire experience with Zé.
 
@@ -15,9 +17,15 @@ The app is almost finished, and the couriers are already able to manage the orde
 Regarding the infrastructure on our cloud that will receive all this data, we are really delayed, and it is exactly where we need your help, to help us answering these questions:
 
 * How are we going to receive all the location data from the couriers' app? What protocols, services, components we are going to use to proper receive the data, store it and be available to be used in other products. 
-  * Should we create an API for it? Should we use some specific managed component to receive this information? Should we use queues, pub-sub mechanisms, serverless components? 
-* While receiving this location data associed with order's information, imagine we need to ingest more information to it. How would we do this? In which layer that you have proposed in the previous answer?
-* We need to create an API to retrieve the last retrieved location from an order. How do you propose us to do this? While receiving location data, can you elaborate a solution to store the order's last location information? 
+  * Should we create an API for it? 
+  * Should we use some specific managed component to receive this information? 
+  * Should we use queues, pub-sub mechanisms, serverless components? 
+* While receiving this location data associed with order's information, imagine we need to ingest more information to it. 
+  * How would we do this? 
+  * In which layer that you have proposed in the previous answer?
+* We need to create an API to retrieve the last retrieved location from an order. 
+  * How do you propose us to do this? 
+  * While receiving location data, can you elaborate a solution to store the order's last location information? 
 * If we need to notify the users about each order's status, how would you implement this while collecting the data?
 * How to store the data and how to make it available to be queried by our Data Analytics team? 
 
