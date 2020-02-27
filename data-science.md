@@ -10,12 +10,13 @@ To evaluate for Zé's `Data Science` positions, we kindly ask you to take a look
 
 ### What you should provide us
 
-We expect you to create a notebook and explain how you approached the problem presented at the challenge. It is important to describe what decisions you have made and the rationale behind each. Also, you should explain how you cleaned and processed the data, which algorithms you have used, the strategy you applied on feature engineering and everything else you assume is important for us to understand your solution.
+We expect you to create a Kaggle notebook (https://www.kaggle.com/docs/kernels) with your solution, explaining how you approached the problem presented in the challenge. It is important to describe which decisions you have made and the rationale behind each. Also, you should explain how you cleaned and processed the data, which algorithms you have used, the strategy you applied on feature engineering and everything else you assume is important for us to understand your solution.
 
 Good luck!
 
 ## How to deliver it
 
-**Once you have finished the challenge, please submit your information on this amazing form:**
-  https://docs.google.com/forms/d/e/1FAIpQLSePVCWxsHZHoRqJY9-XFJHuL7iOjO00sfhZksLBmDbR0KuoLg/viewform
+**Once you have finished the challenge, please submit the link for your notebook together with any other information you find important to the recruiter e-mail.**
 
+- Remember to make your Kaggle notebook public, so we can access it.
+- Keep in mind that if called for the technical interview, you will be asked to present your solution!
