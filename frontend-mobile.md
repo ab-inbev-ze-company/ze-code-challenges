@@ -71,5 +71,5 @@ Feel free to implement it the way you feel more confortable :)
 
 ## How to deliver it
 
-### Once you have finished the challenge, please follow the instructions in:
-  - https://github.com/ZXVentures/ze-code-challenges#how-to-deliver
+### Once you have finished the challenge, please follow the instructions in
+- https://github.com/ZXVentures/ze-code-challenges#how-to-deliver

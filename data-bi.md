@@ -126,5 +126,5 @@ Draw a data flow for loading data from an e-Commerce site to a Data Mart. The da
 
 We wish you good luck! ✌️
 
-### Once you have finished the challenge, please follow the instructions in:
-  - https://github.com/ZXVentures/ze-code-challenges#how-to-deliver
+### Once you have finished the challenge, please follow the instructions in
+- https://github.com/ZXVentures/ze-code-challenges#how-to-deliver

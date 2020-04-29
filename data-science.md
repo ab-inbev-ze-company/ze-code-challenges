@@ -16,9 +16,9 @@ Good luck!
 
 ## How to deliver it
 
-### Once you have finished the challenge, please submit the link for your notebook together with any other information following the instructions in:.**
-  - https://github.com/ZXVentures/ze-code-challenges#how-to-deliver
+### Once you have finished the challenge, please submit the link for your notebook together with any other information following the instructions in 
+- https://github.com/ZXVentures/ze-code-challenges#how-to-deliver
 
 **Important!**
-  - Remember to make your Kaggle notebook public, so we can access it.
-  - Keep in mind that if called for the technical interview, you will be asked to present your solution!
+- Remember to make your Kaggle notebook public, so we can access it.
+- Keep in mind that if called for the technical interview, you will be asked to present your solution!
