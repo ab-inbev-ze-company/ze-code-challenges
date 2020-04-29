@@ -61,5 +61,7 @@ Good Luck!
 
 ## How to deliver it
 
+Please, use Github to host your code and add @ze-engineering-code-challenge as a collaborator for it. This Github account (@ze-engineering-code-challenge) is solely used by Zé's engineers to download your code and review it
+
 **Once you have finished the challenge, please follow the instructions in:**
-  - https://github.com/ZXVentures/ze-code-challenges#how-to-deliver
+- https://github.com/ZXVentures/ze-code-challenges#how-to-deliver
