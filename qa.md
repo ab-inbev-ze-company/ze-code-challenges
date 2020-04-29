@@ -48,12 +48,7 @@ Create automated tests to get weather using Open Weather API
 Hint:
 **Covering more scenarios and being flexible to different types of responses will give you higher scores** 
 
-## How to deliver it
-
-**Once you have finished the challenge, please submit your information on this amazing form:**
-  https://docs.google.com/forms/d/e/1FAIpQLSePVCWxsHZHoRqJY9-XFJHuL7iOjO00sfhZksLBmDbR0KuoLg/viewform
-
-### Final considerations
+## Final considerations
 
 To create the tests above, you can choose any programming language, framework etc you feel more comfortable.
 
@@ -63,3 +58,9 @@ This test will be evaluated by Zé Delivery Engineering team.
 
 If you're having any issues with the challenge, feel free to contact us.
 Good Luck!
+
+## How to deliver it
+
+Please, use Github to host your code and add @ze-engineering-code-challenge as a collaborator for it. This Github account (@ze-engineering-code-challenge) is solely used by Zé's engineers to download your code and review it
+
+**Once you have finished the challenge, please follow these [instructions](https://github.com/ZXVentures/ze-code-challenges#how-to-deliver).**

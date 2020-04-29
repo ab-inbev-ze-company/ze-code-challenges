@@ -72,7 +72,4 @@ Your code will be under review of the Zx's Global Engineering team. What we will
 
 Please, use Github to host your code and add @ze-engineering-code-challenge as a collaborator for it. This Github account (@ze-engineering-code-challenge) is solely used by Zé's engineers to download your code and review it
 
-**Once you have finished the challenge, please submit your information on this amazing form:**
-  https://docs.google.com/forms/d/e/1FAIpQLSePVCWxsHZHoRqJY9-XFJHuL7iOjO00sfhZksLBmDbR0KuoLg/viewform
-
-Good luck!
+**Once you have finished the challenge, please follow these [instructions](https://github.com/ZXVentures/ze-code-challenges#how-to-deliver).**

@@ -27,8 +27,8 @@ We hope you are eager to take one of our code challenges and show us how amazing
 
 * Please, do not open a PR with your test.
 * Please, do not fork this repo.
-* **Once you have finished the challenge, please submit your information on this simple (and amazing) form:**
-  https://docs.google.com/forms/d/e/1FAIpQLSePVCWxsHZHoRqJY9-XFJHuL7iOjO00sfhZksLBmDbR0KuoLg/viewform
+
+**Once you have finished the challenge, please submit your information on this simple (yet amazing) [form](https://docs.google.com/forms/d/e/1FAIpQLSc8DJlM3SQDxMTntTtzqVS_StacBM072c4WSku7LUkgPganOg/viewform).**
 
 ## Oh, and don't forget!
 
