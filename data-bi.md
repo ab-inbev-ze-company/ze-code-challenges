@@ -111,9 +111,9 @@ _* DateID field is a date datatype_
 
 Given the dimensional model presented, build the following SQL queries:
 
-* Returning the evolution of quantity in inventory per product category per date;
-* Returning the most recent inventory position of quantity of products per category;
-* Returning the quantity of distinct products that have ever been stored in each state
+- Returning the evolution of quantity in inventory per product category per date;
+- Returning the most recent inventory position of quantity of products per category;
+- Returning the quantity of distinct products that have ever been stored in each state
 
 ## Exercise 7
 
@@ -122,8 +122,9 @@ Share two projects that you have developed that required complex ETL, explain th
 ## Exercise 8
 
 Draw a data flow for loading data from an e-Commerce site to a Data Mart. The data will be extracted from APIs and needs to be combined with data from Excel files before it is stored in the Data Mart - explain the main components and the tools you would use. Show how the end-users will access the data.
-**Any doubts? You can open issues here in GitHub and we will get in touch**
 
-We wish you good luck! ✌️
+## How to deliver it
+
+Please, use Github to host your code and add @ze-engineering-code-challenge as a collaborator for it. This Github account (@ze-engineering-code-challenge) is solely used by Zé's engineers to download your code and review it
 
 **Once you have finished the challenge, please follow these [instructions](https://github.com/ZXVentures/ze-code-challenges#how-to-deliver).**
