@@ -15,20 +15,21 @@ We hope you are eager to take one of our code challenges and show us how amazing
 
 *Choose the challenge related to the position you are interested in:*
 
-- [Back-end](backend.md)
-- [Front-end / Mobile](frontend-mobile.md)
-- [Quality (QA)](qa.md)
-- [DevOps / Cloud](devops-cloud.md)
-- [Data Analytics / Business Intelligence](data-bi.md)
-- [Data Engineering](data-engineering.md)
-- [Data Science](data-science.md)
+  - [Back-end](backend.md)
+  - [Front-end / Mobile](frontend-mobile.md)
+  - [Quality (QA)](qa.md)
+  - [DevOps / Cloud](devops-cloud.md)
+  - [Data Analytics / Business Intelligence](data-bi.md)
+  - [Data Engineering](data-engineering.md)
+  - [Data Science](data-science.md)
 
 ## How to deliver?
 
 * Please, do not open a PR with your test.
 * Please, do not fork this repo.
-* **Once you have finished the challenge, please submit your information on this simple (and amazing) form:**
-- https://docs.google.com/forms/d/e/1FAIpQLSc8DJlM3SQDxMTntTtzqVS_StacBM072c4WSku7LUkgPganOg/viewform
+
+**Once you have finished the challenge, please submit your information on this simple (and amazing) form:**
+  - https://docs.google.com/forms/d/e/1FAIpQLSc8DJlM3SQDxMTntTtzqVS_StacBM072c4WSku7LUkgPganOg/viewform
 
 ## Oh, and don't forget!
 

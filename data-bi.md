@@ -111,11 +111,9 @@ _* DateID field is a date datatype_
 
 Given the dimensional model presented, build the following SQL queries:
 
-- Returning the evolution of quantity in inventory per product category per date;
-
-- Returning the most recent inventory position of quantity of products per category;
-
-- Returning the quantity of distinct products that have ever been stored in each state
+  - Returning the evolution of quantity in inventory per product category per date
+  - Returning the most recent inventory position of quantity of products per category
+  - Returning the quantity of distinct products that have ever been stored in each state
 
 ## Exercise 7
 
@@ -128,7 +126,5 @@ Draw a data flow for loading data from an e-Commerce site to a Data Mart. The da
 
 We wish you good luck! ✌️
 
-## How to deliver it
-
-**Once you have finished the challenge, please follow the instructions in:**
-- https://github.com/ZXVentures/ze-code-challenges#how-to-deliver
+### Once you have finished the challenge, please follow the instructions in:
+  - https://github.com/ZXVentures/ze-code-challenges#how-to-deliver

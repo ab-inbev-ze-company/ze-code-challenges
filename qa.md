@@ -62,4 +62,4 @@ Good Luck!
 ## How to deliver it
 
 **Once you have finished the challenge, please follow the instructions in:**
-- https://github.com/ZXVentures/ze-code-challenges#how-to-deliver
+  - https://github.com/ZXVentures/ze-code-challenges#how-to-deliver
