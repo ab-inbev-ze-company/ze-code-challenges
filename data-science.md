@@ -16,7 +16,7 @@ Good luck!
 
 ## How to deliver it
 
-**Once you have finished the challenge, please follow the [instructions](https://github.com/ZXVentures/ze-code-challenges#how-to-deliver)**
+**Once you have finished the challenge, please follow these [instructions](https://github.com/ZXVentures/ze-code-challenges#how-to-deliver).**
 
 **Important!**
 - Remember to make your Kaggle notebook public, so we can access it.
