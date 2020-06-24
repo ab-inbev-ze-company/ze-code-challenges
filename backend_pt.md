@@ -38,7 +38,7 @@ Salvar no banco de dados **todas** as seguintes informações representadas por 
 3. O campo `document` deve ser único entre os parceiros;
 4. O campo `id` deve ser único entre os parceiros, mas não necessariamente um número inteiro;
 
-Você pode usar esse arquivo [JSON](files/pdvs.json) com centenas de informações de parceiros que geramos para você testar o seu serviço.
+Você pode usar esse arquivo [JSON](files/pdvs.json) com centenas de informações de parceiros que geramos para você testar o seu serviço — **não** esperamos que estes parceiros estejam pré carregados em sua base de dados.
 Abaixo, você pode ver como estes parceiros são representados em um mapa:
 ![parceiros em um mapa](files/images/pdvs.png)
 

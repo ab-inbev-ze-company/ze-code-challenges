@@ -38,7 +38,7 @@ Save in a database a partner defined by **all** the fields represented by the JS
 3. The `document` must be a unique field;
 4. The `id` must be a unique field, but not necessarily an integer;
 
-You can use this [json](files/pdvs.json) file composed of hundreds of partner information to test your application.
+You can use this [json](files/pdvs.json) file composed of hundreds of partner information to test your application — we do **not** expect these partners to be pre loaded in the database.
 Below, you can have a look at how these partners might be represented in a map:
 ![Partners in map](files/images/pdvs.png)
 
