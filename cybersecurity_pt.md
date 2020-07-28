@@ -1,4 +1,4 @@
-# Desafio de Cybersecurity
+# Desafio de Cibersegurança
 
 ## Sobre o desafio
 
