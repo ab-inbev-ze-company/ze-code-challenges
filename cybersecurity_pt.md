@@ -38,7 +38,7 @@ E aí, bora ajudar o Zé Connect?
 
 ### O que esperamos de você?
 
-A nossa expectativa é entender como você vai problematizar o case e como você construiria uma estrutura centrada em pessoas, processos e ferramentas, que nos dê a certeza de que não seremos mais uma empresa entrando para as estatísticas brasileiras.
+A nossa expectativa é entender como você vai problematizar o case e como você construiria uma estrutura centrada em pessoas, processos e ferramentas, que nos dê a certeza de que o Zé Connect não será mais uma empresa entrando para as estatísticas brasileiras.
 
 ### Como você irá entregar?
 
