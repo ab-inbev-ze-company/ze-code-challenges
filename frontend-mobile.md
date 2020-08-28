@@ -47,6 +47,7 @@ The   API   link   is:    https://api.code-challenge.ze.delivery/public/graphql
       - @ze-engineering-code-challenge
 - Avoid using scaffolds (Create React App etc.), we want to see how you make your project structure
 - Keep it simple, no need for fancy stuff :)
+- TESTS 💛 We really love testing our code and features here!
 
 #### If your running for a front-end position:
 - You're not allowed to use any CSS Frameworks (Bootstrap, Bulma, PureCSS etc.)
@@ -57,6 +58,7 @@ The   API   link   is:    https://api.code-challenge.ze.delivery/public/graphql
 - You should use React Native to develop your application.
 - I want to be able to run your project with one single command
 - Hosting it its a BIG plus (Expo should do the job for ya)
+
 
 ## Evaluation Method
 
