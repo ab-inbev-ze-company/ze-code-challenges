@@ -2,12 +2,12 @@
 
 ## About the Challenge 
 
-We're using GraphQL here, so thats gonna be the way your going to receive the data(sounds good, right?).
+We're using GraphQL here, so that's gonna be the way you're going to receive the data (sounds good, right?).
 
 ### What you should develop?
-Its simple. The user needs to type an address inside a field and be redirected to a products list page. So your job as a front-end engineer will be to create 2 simple screens consuming and sending data to our API.
+It's simple. The user needs to type an address inside a field and be redirected to a products list page. So your job as a front-end engineer will be to create 2 simple screens consuming and sending data to our API.
 
-You can check out a flux sample at: https://www.ze.delivery/ (our production env)
+You can check out an example of this flow at: https://ze.delivery/ (our production env)
 
 We're using GraphQL (give a look to https://www.graphql.com/guides/)
 
@@ -22,8 +22,8 @@ We want you to feel free to develop the markup the way you want, we have no wire
 The   API   link   is:    https://api.code-challenge.ze.delivery/public/graphql 
   - Home
     - To   find   the   latitude   and   longitude   of   an   address, you can use Google Maps API or use any other Geocoder API that you feel comfortable with.
-    - Use   the   following   address   to   find   a   POC:    Rua   Américo   Brasiliense,   São   Paulo . 
-    - The   Query   needed   to   get   the   right   POC   (Get   the   first   POC):
+    - Use   the   following   address   to   find   a   distributor (PoC):    Rua   Américo   Brasiliense,   São   Paulo . 
+    - The   Query   needed   to   get   the   right   distributor   (get   the   first   distributor):
         - Query:       https://bit.ly/32Gb2Qi
         - Arguments:
           - Algorithm:   "NEAREST".
@@ -34,9 +34,9 @@ The   API   link   is:    https://api.code-challenge.ze.delivery/public/graphql
       - The   Query   needed   to   get   the   products
         - Query:    https://bit.ly/2N3JQ7k
         - Arguments:
-          - Id:   id   of   the   POC retrivied from previous query (PocSearch).
-          - Search:   if   ""   (empty),   do   not   filters   by   search.
-          - CategoryId:   if   null   do   not   filters   by   category.
+          - Id:   id   of   the   distributor retrieved from the previous query (PocSearch).
+          - Search:   if   ""   (empty),   does   not   filter   by   search.
+          - CategoryId:   if   null,   does   not   filter   by   category.
       - The   Query   needed   to   get   the   category   list
         - Query:    https://bit.ly/2pMG8Xy
 
@@ -49,12 +49,12 @@ The   API   link   is:    https://api.code-challenge.ze.delivery/public/graphql
 - Keep it simple, no need for fancy stuff :)
 - TESTS 💛 We really love testing our code and features here!
 
-#### If your running for a front-end position:
+#### If you are running for a front-end position:
 - You're not allowed to use any CSS Frameworks (Bootstrap, Bulma, PureCSS etc.)
 - React will be a plus, but you can use whatever you want =)
 - I want to be able to run your project locally by using `npm start`
 
-#### If your running for a mobile position:
+#### If you are running for a mobile position:
 - You should use React Native to develop your application.
 - I want to be able to run your project with one single command
 - Hosting it its a BIG plus (Expo should do the job for ya)
@@ -62,10 +62,10 @@ The   API   link   is:    https://api.code-challenge.ze.delivery/public/graphql
 
 ## Evaluation Method
 
-Your code will be under review of the Zx's Global Engineering team. What we will look for:
+Your code will be under review of the Zé Engineering team. What we will look for:
 - **Good Practices and patterns**
 - **Code and Folder Structure**
-- **Componentization and data flux**
+- **Componentization and data flow**
 - **Easy to understand code (again, no need for fancy stuff)**
 - **Tests**
 
