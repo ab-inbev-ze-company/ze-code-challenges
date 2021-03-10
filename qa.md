@@ -54,6 +54,9 @@ To create the tests above, you can choose any programming language, framework et
 
 **Don't forget to provide a detailed documentation on how to install and run the tests**
 
+Hint:
+[Good commits practices](https://chris.beams.io/posts/git-commit/)
+
 This test will be evaluated by Zé Delivery Engineering team.
 
 If you're having any issues with the challenge, feel free to contact us.
