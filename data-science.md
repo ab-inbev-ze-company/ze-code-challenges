@@ -7,7 +7,7 @@ Para avaliar as habilidades técnicas dos candidatos de `Data Science` do Zé, p
 * https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
 
 ## Aqui vão algumas instruções (e dicas!) para o seu desenvolvimento:
-* Sua resolução deve ser desenvolvida e entregue em um **[notebook do Kaggle](https://www.kaggle.com/docs/kernels);**
+* Sua resolução deve ser desenvolvida e entregue em um **[notebook do Kaggle](https://www.kaggle.com/notebooks);**
 * Construa sua solução de forma **organizada** e **estruturada**, para que sejamos capazes de entender quais etapas você seguiu para desenvolver seu modelo;
 * Escolha o idioma que for mais confortável para você (pode ser **português** ou **inglês**);
 * Lembre-se de explicar seu raciocínio em texto, justificando as decisões tomadas e evidenciando as conclusões tiradas (exemplo: ao plotar um gráfico, explique quais as conclusões você tirou a partir dele; ou ao escolher um determinado modelo, deixe claro qual foi o critério para escolha). **É super importante que nosso time seja capaz de acompanhar seu raciocínio sem navegar pelas linhas de código!**
