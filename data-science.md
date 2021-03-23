@@ -1,23 +1,26 @@
-# Data Science Challenge
+# Case Técnico Data Science
 
-## About the Challenge... 
+## Sobre o Case...
+*... Não é apenas uma competição do Kaggle!* 
 
-*... Kaggle for the win!* 
+Para avaliar as habilidades técnicas dos candidatos de `Data Science` do Zé, pedimos que você resolva o desafio no link abaixo. Trata-se de um problema de previsão de demanda em que você deve construir um modelo capaz de realizar a projeção de vendas semanais para diferentes departamentos de diversas lojas de um grande varejista.
+* https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
 
-To evaluate for Zé's `Data Science` positions, we kindly ask you to take a look at the following Kaggle challenge. There, you will find instructions in order to provide a solution to it: 
+## Aqui vão algumas instruções (e dicas!) para o seu desenvolvimento:
+* Sua resolução deve ser desenvolvida e entregue em um **[notebook do Kaggle](https://www.kaggle.com/notebooks);**
+* Construa sua solução de forma **organizada** e **estruturada**, para que sejamos capazes de entender quais etapas você seguiu para desenvolver seu modelo;
+* Escolha o idioma que for mais confortável para você (pode ser **português** ou **inglês**);
+* Lembre-se de explicar seu raciocínio em texto, justificando as decisões tomadas e evidenciando as conclusões tiradas (exemplo: ao plotar um gráfico, explique quais as conclusões você tirou a partir dele; ou ao escolher um determinado modelo, deixe claro qual foi o critério para escolha). **É super importante que nosso time seja capaz de acompanhar seu raciocínio sem navegar pelas linhas de código!**
+* A **qualidade do código** também é muito importante, então tenha em mente que códigos bem escritos aquecem nosso coração amarelo!
+* **Super dica:** um racional claro e bem estruturado é mais importante do que um modelo com performance altíssima! Além disso, comumente temos que explicar nosso raciocínio para uma audiência não técnica, então vale exercitar sua capacidade de explicar conceitos complexos de maneira simples!
 
-- https://www.kaggle.com/c/walmart-recruiting-store-sales-forecasting
+## Sobre a entrega do Case
+**Assim que você finalizar o desafio, por favor siga estas [instruções](https://github.com/ZXVentures/ze-code-challenges#how-to-deliver).**
 
-### What you should provide us
+**Importante!**
+* Lembre-se de tornar seu notebook do Kaggle **público** para que possamos acessá-lo;
+* Esteja afiado para apresentar sua solução caso seja chamado para a entrevista técnica!
 
-We expect you to create a Kaggle notebook (https://www.kaggle.com/docs/kernels) with your solution, explaining how you approached the problem presented in the challenge. It is important to describe which decisions you have made and the rationale behind each. Also, you should explain how you cleaned and processed the data, which algorithms you have used, the strategy you applied on feature engineering and everything else you assume is important for us to understand your solution.
+**Boa sorte e divirta-se,**
 
-Good luck!
-
-## How to deliver it
-
-**Once you have finished the challenge, please follow these [instructions](https://github.com/ZXVentures/ze-code-challenges#how-to-deliver).**
-
-**Important!**
-- Remember to make your Kaggle notebook public, so we can access it.
-- Keep in mind that if called for the technical interview, you will be asked to present your solution!
+*Time de Data Science do Zé*
