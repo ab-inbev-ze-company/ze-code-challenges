@@ -15,7 +15,7 @@ Para avaliar as habilidades técnicas dos candidatos de `Data Science` do Zé, p
 * **Super dica:** um racional claro e bem estruturado é mais importante do que um modelo com performance altíssima! Além disso, comumente temos que explicar nosso raciocínio para uma audiência não técnica, então vale exercitar sua capacidade de explicar conceitos complexos de maneira simples!
 
 ## Sobre a entrega do Case
-**Assim que você finalizar o desafio, por favor siga estas [instruções](https://github.com/ZXVentures/ze-code-challenges#how-to-deliver).**
+**Assim que você finalizar o desafio, por favor siga as instruções neste [form](https://forms.gle/9F7bfb7mQoNTfQJe7).**
 
 **Importante!**
 * Lembre-se de tornar seu notebook do Kaggle **público** para que possamos acessá-lo;
