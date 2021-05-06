@@ -2,7 +2,7 @@
 
 ## About the Challenge 
 
-We're using GraphQL here (give a look to https://www.graphql.com/guides/), so that's gonna be the way you're going to receive the data (sounds good, right?).
+We're using GraphQL here (take a look at https://www.graphql.com/guides/), so that's gonna be the way you're going to receive the data (sounds good, right?).
 
 ### What you should develop?
 It's simple. The user needs to type an address inside a field and be redirected to a products list page. So your job as a front-end engineer will be to create 2 simple screens consuming and sending data to our API.
