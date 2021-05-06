@@ -2,14 +2,14 @@
 
 ## Sobre o desafio 
 
-Nós usamos GraphQL aqui(dê uma olhada em https://www.graphql.com/guides/), então essa será a forma
+Nós usamos GraphQL aqui (dê uma olhada em https://www.graphql.com/guides/), então essa será a forma
 que você receberá os dados (bem legal né?).
 
 ### O que você deve desenvolver?
 É simples. O usuário precisa escrever o seu endereço dentro de um campo e ser redirecionado
 para a página de listagem de produtos. O seu trabalho como frontend é desenvolver 2 telas simples consumindo e enviando dados para nossa API.
 
-Você pode checar um exemplo desse fluxo aqui: https://ze.delivery/ (nosso ambiente de produção)
+Temos um exemplo desse fluxo aqui: https://ze.delivery/ (nosso ambiente de produção)
 
 ### Visual
 Nós queremos que você se sinta livre para desenvolver o modelo do jeito que você quiser, nós não temos _wireframes_ ou algo do tipo para essa tarefa. Você irá criar duas telas:

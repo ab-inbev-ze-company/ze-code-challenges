@@ -2,7 +2,7 @@
 
 ## About the Challenge 
 
-We're using GraphQL here(give a look to https://www.graphql.com/guides/), so that's gonna be the way you're going to receive the data (sounds good, right?).
+We're using GraphQL here (give a look to https://www.graphql.com/guides/), so that's gonna be the way you're going to receive the data (sounds good, right?).
 
 ### What you should develop?
 It's simple. The user needs to type an address inside a field and be redirected to a products list page. So your job as a front-end engineer will be to create 2 simple screens consuming and sending data to our API.
@@ -18,7 +18,7 @@ We want you to feel free to develop the markup the way you want, we have no wire
 
 ### About the API
 The API link that you will use: https://api.code-challenge.ze.delivery/public/graphql 
-(If you try to open it in the browser it will appear "Missing Authentication Token", you need use it in code)
+(If you open it in the browser it will appear "Missing Authentication Token", you need use it in code)
   - Home page:
     - To find the latitude and longitude of an address, you can use Google Maps API or use any other Geocoder API that you feel comfortable with.
     - Use the following address to find a distributor (PoC):  Rua Américo Brasiliense, São Paulo . 
