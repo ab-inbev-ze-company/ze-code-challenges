@@ -3,7 +3,7 @@
 ## Sobre o desafio 
 
 Nós usamos GraphQL aqui(dê uma olhada em https://www.graphql.com/guides/), então essa será a forma
-que você receberá os dados (soa bem, certo?).
+que você receberá os dados (bem legal né?).
 
 ### O que você deve desenvolver?
 É simples. O usuário precisa escrever o seu endereço dentro de um campo e ser redirecionado
