@@ -52,7 +52,7 @@ O link da API que você irá utilizar: https://api.code-challenge.ze.delivery/pu
 
 #### Se você estiver fazendo para a posição de frontend:
 - Você não deve usar Framework CSS (Bootstrap, Tailwind, Bulma, PureCSS etc.)
-- React é um a mais, mas você pode usar o que quiser =)
+- React é um plus, mas você pode usar o que quiser =)
 - Quero ser capaz de executar o projeto localmente usando `npm start`
 
 #### Se você estiver fazendo para a posição de mobile:
