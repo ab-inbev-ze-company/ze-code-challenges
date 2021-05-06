@@ -12,15 +12,15 @@ para a página de listagem de produtos. O seu trabalho como frontend é desenvol
 Você pode checar um exemplo desse fluxo aqui: https://ze.delivery/ (nosso ambiente de produção)
 
 ### Visual
-Nós queremos que você se sinta livre para desenvolver o modelo do jeito que você quiser, nós não temos 'wireframes' ou algo do tipo para essa tarefa. Você irá criar duas telas:
+Nós queremos que você se sinta livre para desenvolver o modelo do jeito que você quiser, nós não temos _wireframes_ ou algo do tipo para essa tarefa. Você irá criar duas telas:
   - Página Home:
     - Precisa ter um cabeçalho, um rodapé e um input para o usuário preencher seu endereço
   - Página Products:
-    - Nós queremos ver os produtos em 'cards', com o título do produto, preço e botões para adicionar e remover o produto.
+    - Nós queremos ver os produtos em _cards_, com o título do produto, preço e botões para adicionar e remover o produto.
 
 ### Sobre a API
 O link da API que você irá utilizar: https://api.code-challenge.ze.delivery/public/graphql 
-(Se você tentar abrir isso em um navegador irá aparecer "Missing Authentication Token", você precisa utilizar no código)
+(Se você abrir isso em um navegador irá aparecer "Missing Authentication Token", você precisa utilizar no código)
   - Página Home:
     - Para encontrar a latitude e longitude do endereço, você pode utilizar a API do Google Maps ou utilizar qualquer outra API de Geocoder que você quiser.
     - Utilize o seguinte endereço para encontrar o distribuidor (PoC): Rua Américo Brasiliense, São Paulo.
@@ -46,19 +46,19 @@ O link da API que você irá utilizar: https://api.code-challenge.ze.delivery/pu
 - Você precisa criar um repositório no GitHub para hospedar seu código
   - Usuários do Github:
       - @ze-engineering-code-challenge
-- Evite usar 'scaffolds' (Create React App etc.), nós queremos ver como você cria a estrutura do projeto
+- Evite usar _scaffolds_ (Create React App etc.), nós queremos ver como você cria a estrutura do projeto
 - Mantenha simples, não há necessidade de coisas extravagantes :)
-- TESTES 💛 Nós realmente amamos testar nosso código e suas característica aqui!
+- TESTES 💛 Nós realmente amamos testar nosso código e suas características aqui!
 
 #### Se você estiver fazendo para a posição de frontend:
 - Você não deve usar Framework CSS (Bootstrap, Tailwind, Bulma, PureCSS etc.)
-- React é um plus, mas você pode usar o que quiser =)
+- React é um _plus_, mas você pode usar o que quiser =)
 - Quero ser capaz de executar o projeto localmente usando `npm start`
 
 #### Se você estiver fazendo para a posição de mobile:
 - Você deve usar React Native para desenvolver sua aplicação
 - Quero ser capaz de executar o projeto com um único comando
-- Hospedá-lo é um GRANDE a mais (Expo deve fazer o trabalho para você)
+- Hospedá-lo é um GRANDE _plus_ (Expo deve fazer o trabalho para você)
 
 ## Método de Avaliação
 
