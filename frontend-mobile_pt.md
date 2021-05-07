@@ -50,7 +50,7 @@ O link da API que você irá utilizar: https://api.code-challenge.ze.delivery/pu
 - Mantenha simples, não há necessidade de coisas extravagantes :)
 - TESTES 💛 Nós realmente amamos testar nosso código e suas características aqui!
 
-#### Se você estiver fazendo para a posição de frontend:
+#### Se você desejar fazer o teste com frontend web:
 - Você não deve usar Framework CSS (Bootstrap, Tailwind, Bulma, PureCSS etc.)
 - React é um _plus_, mas você pode usar o que quiser =)
 - Quero ser capaz de executar o projeto localmente usando `npm start`
