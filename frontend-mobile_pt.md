@@ -55,7 +55,7 @@ O link da API que você irá utilizar: https://api.code-challenge.ze.delivery/pu
 - React é um _plus_, mas você pode usar o que quiser =)
 - Quero ser capaz de executar o projeto localmente usando `npm start`
 
-#### Se você estiver fazendo para a posição de mobile:
+#### Se você desejar fazer o teste em mobile:
 - Você deve usar React Native para desenvolver sua aplicação
 - Quero ser capaz de executar o projeto com um único comando
 - Hospedá-lo é um GRANDE _plus_ (Expo deve fazer o trabalho para você)
