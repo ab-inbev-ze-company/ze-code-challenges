@@ -1,5 +1,7 @@
 # Desafio de Frontend/Mobile
 
+You can read this challenge in English here: https://github.com/ZXVentures/ze-code-challenges/blob/master/frontend-mobile.md 
+
 ## Sobre o desafio 
 
 Nós usamos GraphQL aqui (dê uma olhada em https://www.graphql.com/guides/), então essa será a forma
