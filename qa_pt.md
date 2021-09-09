@@ -32,7 +32,7 @@ i.Crie um conjunto de testes de automação para um cenário da parte 1 do desaf
 ii. Forneça um resumo com as diretrizes das decisões que você tomou (por exemplo, explique por que você escolheu essa linguagem de programação, estrutura, etc.).
 
 
-### 3. API automation test
+### 3. Teste de Automação API
 
 Queremos que você automatize uma suite de testes de API com abordagem **ATDD**
 
@@ -55,7 +55,7 @@ Seu código estará sob análise do time de Engenharia do Zé. O que vamos procu
 Para criar os testes acima, você pode escolher qualquer linguagem de programação, framework etc que você se sinta mais confortável :)
 
 
-## How to deliver it
+## Como entregar
 
 Por favor, utilize o Github para hospedar seu código e adicione @ze-engineering-code-challenge como um colaborador do repositório. Essa conta do Github (@ze-engineering-code-challenge) é usado exclusivamente pelo time de Engenharia do Zé para baixar o seu código e revisá-lo
 
