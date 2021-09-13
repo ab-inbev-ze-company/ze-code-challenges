@@ -21,27 +21,25 @@ Nós queremos que você se sinta livre para desenvolver o modelo do jeito que vo
     - Nós queremos ver os produtos em _cards_, com o título do produto, preço e botões para adicionar e remover o produto.
 
 ### Sobre a API
-O link da API que você irá utilizar: https://api.code-challenge.ze.delivery/public/graphql 
+O link da API que você irá utilizar: https://frontend-code-challenge-api.ze.delivery/graphql
 (Se você abrir isso em um navegador irá aparecer "Missing Authentication Token", você precisa utilizar no código)
   - Página Home:
     - Para encontrar a latitude e longitude do endereço, você pode utilizar a API do Google Maps ou utilizar qualquer outra API de Geocoder que você quiser.
     - Utilize o seguinte endereço para encontrar o distribuidor (PoC): Rua Américo Brasiliense, São Paulo.
     - A Query necessária para obter o distribuidor correto (obtém o primeiro distribuidor):
-        - Query: https://bit.ly/32Gb2Qi
+        - [Query](https://studio.apollographql.com/sandbox/explorer?endpoint=https%3A%2F%2Ffrontend-code-challenge-api.ze.delivery%2Fgraphql&explorerURLState=N4IgJg9gxgrgtgUwHYBcQC4QEcYIE4CeABAArQDKCAhnlABYAUAJAA4XW10AyESA5uiLkUeAJb8AhABoirdjXpcqKQcLGSAlEWAAdJESJsolBYwA2vAbKMnOPfjLPLBc4x0XKtu-QaKiwer5EAM4oyjDBgb5IVIhRAL56iUggUiAAbjSiVABGZgjBGCDeBjogNu7clmWCZQC0ACwAbAB0TQCc7Q0ArADMZVJRZRWmSig1RPUATL1tvVPtAIztA3pJIPFAA)
         - Argumentos:
-          - Algorithm:   "NEAREST".
-          - Lat: Envie como String.
-          - Long: Envie como String.
-          - Now: A Data atual formatada.
+          - pocSearchLat: Envie como String.
+          - pocSearchLong: Envie como String.
   - Página Products:
       - A Query necessária para obter os produtos
-        - Query: https://bit.ly/2N3JQ7k
+        - [Query](https://studio.apollographql.com/sandbox/explorer?endpoint=https%3A%2F%2Ffrontend-code-challenge-api.ze.delivery%2Fgraphql&explorerURLState=N4IgJg9gxgrgtgUwHYBcQC4QEcYIE4CeABAArQAUAJAA7QCSY6RAyingJZIDmAhADREaeCGBhQUAZ2YIAhnigALJqw7cBQkWMkBhGSgRcIhBsracuASiLAAOkiJFaUcu0aCnDK7fsOiru75EEih6MBIBvkgyiBEO1MKi4hLkErLySu4JWlJpigJQegZGBCaZmkm6%2BobGYF6xvv4%2BgSjsKAA2CPUO7HAyXJ1NvvHsUAOBDgVVxdZdDWCzDi3tY%2BMAvvXrPpurIHwgAG5y7DIARh0SGCDeDjYgHvMYRLcArADMAEy3fBG38eWS0jkiluTCQMDabW%2BPl%2BWQqhWqJQeoPBbTsO1WQA)
         - Argumentos:
-          - Id: id do distribuidor recebido na query anterior (PocSearch)
-          - Search: se "" (vazio), não filtra por 'search'.
-          - CategoryId: se null, não filtra por 'category'.
+          - pocId: id do distribuidor recebido na query anterior (PocSearch)
+          - productsSearch: se "" (vazio), não filtra por 'search'.
+          - productsCategoryId: se null, não filtra por 'category'.
       - A Query necessária para obter a lista de categorias
-        - Query: https://bit.ly/2pMG8Xy
+        - [Query](https://studio.apollographql.com/sandbox/explorer?endpoint=https%3A%2F%2Ffrontend-code-challenge-api.ze.delivery%2Fgraphql&explorerURLState=N4IgJg9gxgrgtgUwHYBcQC4QEcYIE4CeABAMICGKCA5hHgJYIDORwAOkkUVBdbQ82w6cidMO2FEUdFABsE4ogF92ikABoQANzL0yAIzmMMIEIqA)
 
 
 ### Requerimentos técnicos (para as duas posições):
