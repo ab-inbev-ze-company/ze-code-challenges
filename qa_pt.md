@@ -57,6 +57,9 @@ Para criar os testes acima, você pode escolher qualquer linguagem de programaç
 
 ## Como entregar
 
-Por favor, utilize o Github para hospedar seu código e adicione @ze-engineering-code-challenge como um colaborador do repositório. Essa conta do Github (@ze-engineering-code-challenge) é usado exclusivamente pelo time de Engenharia do Zé para baixar o seu código e revisá-lo
+Por favor, não abra um PR com seu teste
+Por favor, não faça um fork deste projeto.
 
-**Depois de terminar o desafio, siga estas [instruções](https://github.com/ZXVentures/ze-code-challenges#how-to-deliver).**
+Utilize o Github para hospedar seu código e adicione @ze-engineering-code-challenge como um colaborador do repositório. Essa conta do Github (@ze-engineering-code-challenge) é usado exclusivamente pelo time de Engenharia do Zé para baixar o seu código e revisá-lo
+
+**Depois de terminar o desafio, submeta todas informações neste [Form](https://docs.google.com/forms/d/e/1FAIpQLSc8DJlM3SQDxMTntTtzqVS_StacBM072c4WSku7LUkgPganOg/viewform).**
