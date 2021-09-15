@@ -1,5 +1,7 @@
 # QA Challenge
 
+Você pode ler este desafio em português aqui: https://github.com/ZXVentures/ze-code-challenges/blob/master/qa_pt.md
+
 ## About the challenge
 
 
