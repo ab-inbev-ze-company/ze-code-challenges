@@ -1,5 +1,3 @@
-**importante:** esta é uma nova versão do nosso code challenge e deve ser usada apenas por pessoas que estão começando o desafio agora. Se você já começou, você ainda pode ler as instruções antigas [aqui](https://github.com/ZXVentures/ze-code-challenges/blob/e8937d04b2dcda1c06db39f7b085dbe7e27cc440/frontend-mobile_pt.md)
-
 # Desafio de Frontend/Mobile
 
 You can read this challenge in English here: https://github.com/ZXVentures/ze-code-challenges/blob/master/frontend-mobile.md 
