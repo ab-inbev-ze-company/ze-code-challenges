@@ -11,7 +11,7 @@ Bem, tendo isso em mente, devemos implementar alguns testes para minimizar esse 
 
 ### 1. Identifique os fluxos críticos
 
-Você notará que nossas plataformas web e mobile são um pouco diferentes, portanto, para esta primeira parte do desafio do código, você pode escolher um dos 3 aplicativos que temos: Android, iOS, Web.
+Na nossa plataforma Web [https://ze.delivery/](https://ze.delivery/),
  
 i. Identifique no mínimo, 3 fluxos importantes que mantêm o aplicativo funcionando corretamente. Por exemplo: Login (Login é um fluxo importante porque o usuário precisa estar logado para concluir uma compra). Como foi dado como exemplo, agora não vale usar o login no teste heinn :p
  
