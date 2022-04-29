@@ -1,4 +1,4 @@
-# Desafio de Cibersegurança
+# Desafio de Cibersegurança RED TEAM
 
 ## Sobre o desafio
 
