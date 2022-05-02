@@ -25,7 +25,7 @@ The API link that you will use: https://frontend-code-challenge-api.ze.delivery/
     - To find the latitude and longitude of an address, you can use Google Maps API or use any other Geocoder API that you feel comfortable with.
     - Use the following address to find a distributor (PoC):  Rua Américo Brasiliense, São Paulo . 
     - The Query needed to get the right distributor (get the first distributor):
-        - [Query](https://studio.apollographql.com/sandbox/explorer?endpoint=https%3A%2F%2Ffrontend-code-challenge-api.ze.delivery%2Fgraphql&explorerURLState=N4IgJg9gxgrgtgUwHYBcQC4QEcYIE4CeABAArQDKCAhnlABYAUAJAA4XW10AyESA5uiLkUeAJb8AhABoirdjXpcqKQcLGSAlEWAAdJESJsolBYwA2vAbKMnOPfjLPLBc4x0XKtu-QaKiwer5EAM4oyjDBgb5IVIhRAL56iUggUiAAbjSiVABGZgjBGCDeBjogNu7clmWCZQC0ACwAbAB0TQCc7Q0ArADMZVJRZRWmSig1RPUATL1tvVPtAIztA3pJIPFAA)
+        - [Query](https://studio.apollographql.com/sandbox/explorer?endpoint=https%3A%2F%2Ffrontend-code-challenge-api.ze.delivery%2Fgraphql&explorerURLState=N4IgJg9gxgrgtgUwHYBcQC4QEcYIE4CeABAArQDKCAhnlABYAUAJAA4XW10AyESA5uiLkUeAJb8AhABoirdjXpcqKQcLGSAlEWAAdJESJsolBYwA2vAbKMnOPfjLPLBc4x0XKtu-QaKiwer5EAM4oyjDBgb5IVIhRAL568SBSIABuNKJUAEZmCMEYIN4GOiA27tyWpYKlALQALABsAHQA7AAMAJz1AKwAzKVSUaXlpkoo1UR1AEx9zY19050AjJ2Dekkg8UA)
         - Arguments:
           - pocSearchLat: Use as String.
           - pocSearchLong: Use as String.
