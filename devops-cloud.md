@@ -2,7 +2,7 @@
 
 ## About the Challenge... 
 
-Is all about scripting and the goal is to create a tool to retrieve information from AWS S3 buckets.
+This is all about scripting and the goal is to create a tool to retrieve information from AWS S3 buckets.
 
 Feel free to ask any question - we really want you to succeed and then, join us to help evolve our platform.
 
@@ -43,13 +43,14 @@ Some statistics to check the percentage of space used by a bucket, or any other 
 - Your are free to use the programming language and the [SDK](https://aws.amazon.com/tools/) of your choice, but remember that installation must not require us to install external tools in order to test the result of your work.
 - We will test your work in our environment (which contains **several millions of files**). The overall performance of your tool will be evaluated. Most of the projects we receive take weeks to run in our environment, can you do better?
 
-### Advice
+### General Guidance
 
-- **Try to design and implement your solution as you would do for real production code**. Show us how you create clean, maintainable code that does awesome stuff. Build something that we'd be happy to contribute to. This is not a programming contest where dirty hacks win the game.
 - Feel free to add more features! Really, we're curious about what you can think of. We'd expect the same if you worked with us.
 - Documentation and maintainability is a plus.
 - Remember writing unit tests. 
 - Think about security!
+
+Should you have any questions or regards about the test, do not hesitate do ask us.
 
 ### How to deliver it
 

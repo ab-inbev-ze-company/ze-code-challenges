@@ -8,8 +8,6 @@ Feel free to ask any question - we really want you to succeed and then, join us 
 
 ## The First Challenge - Intermediate
 
-This first one is build an simple infrastructure as code (AWS). 
-
 ### Specifications: 
 
 - An nginx presenting a static web page
@@ -18,15 +16,12 @@ This first one is build an simple infrastructure as code (AWS).
 - Develop automation with your preferred tool to allow:
 - Deploy the new version of the web application without downtime
 - Rollback to previous version when needed
-- Take good care of the Readme, explaining how your solution was designed and how to deploy it
+- Write an adorably good readme, explaining how your solution was designed and how to deploy it
 
 
-### Advice
+### General Guidance
 
-- **Try to design and implement your solution as you would do for real production code**. Even though the test is simple, do it as robustly and professionally as you can.
-Points may have a much-needed ability to make technical decisions.
-
-If in doubt, do not hesitate to ask us.
+Should you have any questions or regards about the test, do not hesitate do ask us.
 
 ### How to deliver it
 
@@ -37,11 +32,9 @@ Please, use Github to host your code and add @ze-engineering-code-challenge as a
 
 ## The Second Challenge - Advanced
 
-This second challenge is more like a case than a code challenge itself.
-
 ### The Story
 
-Imagine that we are starting Zé Delivery at this moment and we are recruiting the team and finally starting the development of Zé's products, which are: 
+Imagine we are starting to build the very first version of Zé Delivery platform, considering:
 
 - Zé Delivery Consumer App: the one available at the app stores and where an user has an account and submit the orders 
 - Zé Delivery Consumer Web: practically equal to the app in functionalities, and used directly in browsers
@@ -50,7 +43,7 @@ Imagine that we are starting Zé Delivery at this moment and we are recruiting t
 
 ### Building the Platform
 
-In a fresh AWS cloud account, how would you draw Zé's infrastructure, considering all the services we want to develop? Think about security, network, communication, databases, etc. While drawing, we also need you to think about requirements like high-availability, performance and even how to give access to our development team to the production database.: 
+In a fresh AWS cloud account, how would you draw and develop the Zé's infrastructure, considering all the services we want to develop? Think about security, network, communication, databases, etc. While drawing, we also need you to think about requirements like high-availability, performance and even how to give access to our development team to the production database.: 
 
 We expect a high-level infrastrutucture drawing and explanations about each part of it - you can be as pragmatic as possible, the objective here is to quickly understand what you are proposing.
 
