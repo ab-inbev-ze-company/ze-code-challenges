@@ -2,7 +2,7 @@
 
 ## About the Challenge... 
 
-We have two challenges, the first one is an intermediate test, and the second is a more advanced: The both challenges is about defining an architecture for Zé at AWS, considering several requirements that are necessary to consider.
+We have two challenges, the first one is an intermediate test, and the second is a more advanced: Both challenges are about defining an architecture for Zé at AWS, considering the several requirements that are necessary.
 
 Feel free to ask any question - we really want you to succeed and then, join us to help evolve our platform.
 
