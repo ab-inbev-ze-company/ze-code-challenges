@@ -25,8 +25,8 @@ O SOC/CSIRT foi acionado quando, no dia 10/05/2022, a ferramenta de Threat Intel
     - No dia 11/MAI/2022 às 15:00h GMT, o usuário "**ze-backend**" realizou a leitura da base "**geolocation**", que não continha dados sensíveis;
 
 ## O que precisamos
-Com base nos dados acima, descreva:
-- Se há indícios de que ocorreu realmente um ataque;
+Com base nos dados acima, e sabendo que um ataque realmente aconteceu, explique:
+- Quais são os indícios de que realmente ocorreu um ataque;
 - Seu entendimento que como o ataque ocorreu, qual foi a forma de entrada e quais ações o atacante realizou no ambiente;
 - Se existem indícios de que alguma informação sensível foi comprometida;
 - Quais suas sugestões para conter e mitigar o incidente;
