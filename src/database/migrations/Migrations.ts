@@ -6,22 +6,22 @@ import { partners, partnersAddress, partnersCoverageArea } from "./data";
 class Migrations extends BaseDatabase{
     execute = async () => {
         try {
-            console.log("Creating tables...");
+            // console.log("Creating tables...");
             await this.createTables();
-            console.log("Tables created successfully!");
+            // console.log("Tables created successfully!");
 
-            console.log("Inserting data...");
+            // console.log("Inserting data...");
             await this.insertData();
-            console.log("Data inserted successfully!");
+            // console.log("Data inserted successfully!");
 
-            console.log("Migrations finished successfully!");
+            // console.log("Migrations finished successfully!");
         } catch (error) {
-            console.log("FAILED! Error in migrations...");
+            // console.log("FAILED! Error in migrations...");
             console.log(error.sqlMessage || error.message);
         } finally {
-            console.log("Closing connection...");
+            // console.log("Closing connection...");
             BaseDatabase.connection.destroy();
-            console.log("Connection closed!");
+            // console.log("Connection closed!");
         }
     }
 
