@@ -17,7 +17,7 @@ class Migrations extends BaseDatabase{
             // console.log("Migrations finished successfully!");
         } catch (error) {
             // console.log("FAILED! Error in migrations...");
-            console.log(error.sqlMessage || error.message);
+            // console.log(error.sqlMessage || error.message);
         } finally {
             // console.log("Closing connection...");
             BaseDatabase.connection.destroy();
