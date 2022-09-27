@@ -58,15 +58,15 @@ class Migrations extends BaseDatabase{
     insertData = async () => {
         await BaseDatabase
         .connection(PartnerDatabase.TABLE_PARTNERS)
-        .insert(partners)
+        .insert(partners);
 
         await BaseDatabase
         .connection(PartnerDatabase.TABLE_PARTNERS_COVERAGE_AREA)
-        .insert(partnersCoverageArea)
+        .insert(partnersCoverageArea);
 
         await BaseDatabase
         .connection(PartnerDatabase.TABLE_PARTNERS_ADDRESS)
-        .insert(partnersAddress)
+        .insert(partnersAddress);
 
     }
 

@@ -3,6 +3,6 @@ export class BaseError extends Error {
         public statusCode: number = 400,
         message: string = ""
     ) {
-        super(message)
+        super(message);
     }
 }

@@ -21,43 +21,43 @@ export class User {
     ) {}
 
     public getId = () => {
-        return this.id
+        return this.id;
     }
 
     public getName = () => {
-        return this.name
+        return this.name;
     }
 
     public getEmail = () => {
-        return this.email
+        return this.email;
     }
 
     public getPassword = () => {
-        return this.password
+        return this.password;
     }
 
     public getRole = () => {
-        return this.role
+        return this.role;
     }
 
     public setId = (newId: string) => {
-        this.id = newId
+        this.id = newId;
     }
 
     public setName = (newName: string) => {
-        this.name = newName
+        this.name = newName;
     }
 
     public setEmail = (newEmail: string) => {
-        this.email = newEmail
+        this.email = newEmail;
     }
 
     public setPassword = (newPassword: string) => {
-        this.password = newPassword
+        this.password = newPassword;
     }
 
     public setRole = (newRole: USER_ROLES) => {
-        this.role = newRole
+        this.role = newRole;
     }
 }
 

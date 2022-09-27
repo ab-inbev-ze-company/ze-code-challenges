@@ -1,4 +1,4 @@
-import bycript from 'bcryptjs';
+import bycript from "bcryptjs";
 
 export class HashManager {
     public hash = async (plainText: string) => {

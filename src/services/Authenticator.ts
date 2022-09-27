@@ -1,6 +1,6 @@
-import jwt from 'jsonwebtoken';
-import dotenv from 'dotenv';
-import { USER_ROLES } from '../models/User';
+import jwt from "jsonwebtoken";
+import dotenv from "dotenv";
+import { USER_ROLES } from "../models/User";
 
 dotenv.config();
 
@@ -18,7 +18,7 @@ export class Authenticator {
                 expiresIn: process.env.JWT_EXPIRES_IN
             }
         );
-        return token
+        return token;
     }
 
     getTokenPayload = (token: string): ITokenPayload | null => {
@@ -26,10 +26,10 @@ export class Authenticator {
             const payload = jwt.verify(
                 token,
                 process.env.JWT_KEY
-            )
-            return payload as ITokenPayload
+            );
+            return payload as ITokenPayload;
         } catch (error) {
-            return null
+            return null;
         }
     }
 }
