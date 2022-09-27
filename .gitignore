@@ -1,1 +1,6 @@
 .idea/
+.env
+.DS_STORE
+node_modules
+build
+coverage
