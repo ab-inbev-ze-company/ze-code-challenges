@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+      "target": "es2021",       
+      "module": "commonjs",   
+      "sourceMap": true,       
+      "outDir": "./build",      
+      "rootDir": "./src",       
+      "removeComments": true,   
+      "noImplicitAny": true,      
+      "esModuleInterop": true
+  },
+  "exclude": ["./tests/*"]
+}
