@@ -29,7 +29,7 @@ We hope you are eager to take one of our code challenges and show us how amazing
 * Please, do not open a PR with your test.
 * Please, do not fork this repo.
 
-**Once you have finished the challenge, please submit your information on this simple (yet amazing) [form](https://docs.google.com/forms/d/e/1FAIpQLSc8DJlM3SQDxMTntTtzqVS_StacBM072c4WSku7LUkgPganOg/viewform).**
+**Once you have finished the challenge, please send the name of the test that you took and your repository to the person you are in contact with so we can evaluate it.**
 
 ## Oh, and don't forget!
 
