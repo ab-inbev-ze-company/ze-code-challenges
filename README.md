@@ -22,7 +22,7 @@ We hope you are eager to take one of our code challenges and show us how amazing
 - [Data Analytics / Business Intelligence](data-bi.md)
 - [Data Engineering](data-engineering.md)
 - [Data Science](data-science.md)
-- [Cibersecurity](cybersecurity_pt.md)
+- [Cybersecurity](cybersecurity_pt.md)
 
 ## How to deliver?
 
